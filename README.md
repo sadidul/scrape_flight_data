@@ -32,14 +32,18 @@ named booking_before_days. In the stoppage column, replace 'Nonstop' with 0 and 
 
 ## Key Insights
 
-**Price Trends by Destination:** Here, I want to show avg. ticket price for each destination.
-**Price vs. Booking Lead Time:** How prices change based on lead time. Best time to book flights for lowest fares.
-**Stoppage Impact:**
-   1.	When to choose non-stop flights: Business travel, time-sensitive trips.
-   2.	When stopovers make sense: Budget travelers, flexible schedules.
-   3.	Best strategies: Balancing price and travel comfort.
-**Airlines Performance:** Is the airline budget-friendly or premium?
-**Map Summary:** Want to show the destination point in a map.
+1. **Price Trends by Destination:** Here, I want to show avg. ticket price for each destination.
+
+2. **Price vs. Booking Lead Time:** How prices change based on lead time. Best time to book flights for lowest fares.
+
+3. **Stoppage Impact:**
+     - When to choose non-stop flights: Business travel, time-sensitive trips.
+     - When stopovers make sense: Budget travelers, flexible schedules.
+     - Best strategies: Balancing price and travel comfort.
+
+4. **Airlines Performance:** Is the airline budget-friendly or premium?
+
+5. **Map Summary:** Want to show the destination point in a map.
 
 ## Build From Source
 1. Clone repo
@@ -62,10 +66,6 @@ pip install -r requirements.txt
 6. From data folder ``flights_data_scrape.csv`` is the original scraping data set. 
 8. Then running ``flights_data_cleaning.ipynb`` file you'll get the the processed data.
    Which is stored in data folder called ``flights_data_processed.csv``.
-
-
-## 📜 License
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
 ## 🛠️ Contributions
 We welcome contributions! Feel free to fork the repository and submit a pull request.
