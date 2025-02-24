@@ -25,3 +25,55 @@ For data cleaning, I load the dataset in a pandas DataFrame. Convert columns to 
 named booking_before_days. In the stoppage column, replace 'Nonstop' with 0 and extract the numeric part. After cleaning, save the DataFrame to a CSV file named 'flight_data_processed.'
 
 
+## [Dashboard Preview](https://public.tableau.com/app/profile/sadidul.kabir/viz/AirFlightAnalysis/Dashboard1)
+
+![dashboard](dashboard_tableau.PNG)
+
+
+## Key Insights
+
+**Price Trends by Destination:** Here, I want to show avg. ticket price for each destination.
+**Price vs. Booking Lead Time:** How prices change based on lead time. Best time to book flights for lowest fares.
+**Stoppage Impact:**
+   1.	When to choose non-stop flights: Business travel, time-sensitive trips.
+   2.	When stopovers make sense: Budget travelers, flexible schedules.
+   3.	Best strategies: Balancing price and travel comfort.
+**Airlines Performance:** Is the airline budget-friendly or premium?
+**Map Summary:** Want to show the destination point in a map.
+
+## Build From Source
+1. Clone repo
+```bash
+git clone https://github.com/sadidul/scrape_flight_data.git
+```
+2. Initialize virtual environment
+```bash
+virtualenv venv  
+```
+3. Activate virtual environment
+```bash
+source ./venv/bin/activate
+```
+4. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+5. First run ``scrape_flight_data.py`` file for scraping data
+6. From data folder ``flights_data_scrape.csv`` is the original scraping data set. 
+8. Then running ``flights_data_cleaning.ipynb`` file you'll get the the processed data.
+   Which is stored in data folder called ``flights_data_processed.csv``.
+
+
+## 📜 License
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
+## 🛠️ Contributions
+We welcome contributions! Feel free to fork the repository and submit a pull request.
+
+## 📩 Contact
+For any inquiries or collaborations:
+- **GitHub:** [github.com/sadidul](https://github.com/sadidul)
+- **LinkedIn:** [linkedin.com/in/md-sadidul-kabir](https://www.linkedin.com/in/md-sadidul-kabir/)
+- **Email:** msk.chanchal@gmail.com
+
+🚀 **Star this repo** ⭐ if you find it useful!
