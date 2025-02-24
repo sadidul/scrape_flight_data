@@ -1,0 +1,1600 @@
+scrape_date,departure_from,destination,travel_date,airline_name,duration,stoppage,ticket_price_BDT
+2025-01-30,DAC,JFK,2025-02-01,"Biman, Cathay Pacific",29 hr 25 min,2 stops,155764
+2025-01-30,DAC,JFK,2025-02-01,"IndiGo, Turkish Airlines",36 hr 45 min,2 stops,195170
+2025-01-30,DAC,JFK,2025-02-01,Emirates,23 hr 55 min,1 stop,298930
+2025-01-30,DAC,JFK,2025-02-02,"Biman, Air Canada",32 hr 27 min,2 stops,166526
+2025-01-30,DAC,JFK,2025-02-02,"Biman, Etihad",33 hr 15 min,2 stops,173291
+2025-01-30,DAC,JFK,2025-02-02,"Biman, Cathay Pacific",29 hr 40 min,2 stops,187609
+2025-01-30,DAC,JFK,2025-02-02,Emirates,23 hr 55 min,1 stop,250338
+2025-01-30,DAC,JFK,2025-02-03,"Biman, Cathay Pacific",29 hr 40 min,2 stops,177002
+2025-01-30,DAC,JFK,2025-02-03,"Biman, Etihad",26 hr 30 min,2 stops,177584
+2025-01-30,DAC,JFK,2025-02-03,Ethiopian,26 hr 55 min,2 stops,219998
+2025-01-30,DAC,JFK,2025-02-04,"Biman, Etihad",33 hr 15 min,2 stops,176070
+2025-01-30,DAC,JFK,2025-02-04,Cathay Pacific,22 hr 5 min,1 stop,194749
+2025-01-30,DAC,JFK,2025-02-04,"IndiGo, Turkish Airlines",36 hr 45 min,2 stops,199569
+2025-01-30,DAC,JFK,2025-02-04,"Biman, Cathay Pacific",29 hr 25 min,2 stops,202127
+2025-01-30,DAC,JFK,2025-02-04,Saudia,30 hr 40 min,1 stop,249152
+2025-01-30,DAC,JFK,2025-02-05,"Biman, Cathay Pacific",29 hr 25 min,2 stops,155764
+2025-01-30,DAC,JFK,2025-02-05,"Biman, Etihad",26 hr 30 min,2 stops,177584
+2025-01-30,DAC,JFK,2025-02-05,Cathay Pacific,22 hr 5 min,1 stop,184741
+2025-01-30,DAC,JFK,2025-02-06,"Biman, Cathay Pacific",29 hr 25 min,2 stops,155764
+2025-01-30,DAC,JFK,2025-02-06,"Biman, Etihad",31 hr 50 min,2 stops,174284
+2025-01-30,DAC,JFK,2025-02-06,Saudia,30 hr 40 min,1 stop,213158
+2025-01-30,DAC,JFK,2025-02-06,Qatar Airways,22 hr 45 min,1 stop,230288
+2025-01-30,DAC,JFK,2025-02-07,"Biman, Etihad",26 hr 30 min,2 stops,176778
+2025-01-30,DAC,JFK,2025-02-07,Cathay Pacific,22 hr 5 min,1 stop,185511
+2025-01-30,DAC,JFK,2025-02-07,"Biman, Cathay Pacific",29 hr 25 min,2 stops,187609
+2025-01-30,DAC,JFK,2025-02-08,"Biman, Cathay Pacific",29 hr 25 min,2 stops,155764
+2025-01-30,DAC,JFK,2025-02-08,"Biman, Etihad",33 hr 15 min,2 stops,173291
+2025-01-30,DAC,JFK,2025-02-08,"IndiGo, Turkish Airlines",36 hr 45 min,2 stops,197511
+2025-01-30,DAC,JFK,2025-02-08,Saudia,30 hr 40 min,1 stop,243153
+2025-01-30,DAC,JFK,2025-02-08,Qatar Airways,22 hr 45 min,1 stop,282719
+2025-01-30,DAC,JFK,2025-02-09,"Biman, Air Canada",32 hr 27 min,2 stops,173943
+2025-01-30,DAC,JFK,2025-02-09,"Biman, Cathay Pacific",29 hr 40 min,2 stops,187608
+2025-01-30,DAC,JFK,2025-02-09,Cathay Pacific,22 hr 5 min,1 stop,216585
+2025-01-30,DAC,JFK,2025-02-09,Qatar Airways,22 hr 45 min,1 stop,241926
+2025-01-30,DAC,JFK,2025-02-10,"Biman, Cathay Pacific",29 hr 40 min,2 stops,188279
+2025-01-30,DAC,JFK,2025-02-10,Ethiopian,26 hr 55 min,2 stops,219998
+2025-01-30,DAC,JFK,2025-02-10,Qatar Airways,22 hr 45 min,1 stop,272761
+2025-01-30,DAC,JFK,2025-02-11,Cathay Pacific,22 hr 5 min,1 stop,231103
+2025-01-30,DAC,JFK,2025-02-11,Qatar Airways,22 hr 45 min,1 stop,250925
+2025-01-30,DAC,JFK,2025-02-12,"Biman, Cathay Pacific",29 hr 25 min,2 stops,155764
+2025-01-30,DAC,JFK,2025-02-12,Cathay Pacific,22 hr 5 min,1 stop,159666
+2025-01-30,DAC,JFK,2025-02-12,"Biman, Etihad",26 hr 30 min,2 stops,167292
+2025-01-30,DAC,JFK,2025-02-13,"Biman, Cathay Pacific",29 hr 25 min,2 stops,155764
+2025-01-30,DAC,JFK,2025-02-13,"Biman, Etihad",29 hr 25 min,1 stop,173291
+2025-01-30,DAC,JFK,2025-02-13,Qatar Airways,22 hr 45 min,1 stop,230288
+2025-01-30,DAC,JFK,2025-02-14,"Biman, Etihad",26 hr 30 min,2 stops,159167
+2025-01-30,DAC,JFK,2025-02-14,Cathay Pacific,22 hr 5 min,1 stop,186894
+2025-01-30,DAC,JFK,2025-02-14,Qatar Airways,22 hr 45 min,1 stop,207972
+2025-01-30,DAC,JFK,2025-02-15,"Biman, Cathay Pacific",29 hr 25 min,2 stops,155764
+2025-01-30,DAC,JFK,2025-02-15,Turkish Airlines,23 hr 20 min,1 stop,205719
+2025-01-30,DAC,JFK,2025-02-15,Saudia,30 hr 40 min,1 stop,213158
+2025-01-30,DAC,JFK,2025-02-15,Qatar Airways,22 hr 45 min,1 stop,230288
+2025-01-30,DAC,JFK,2025-02-16,"Biman, Etihad",26 hr 30 min,2 stops,177584
+2025-01-30,DAC,JFK,2025-02-16,"IndiGo, Turkish Airlines",36 hr 45 min,2 stops,183759
+2025-01-30,DAC,JFK,2025-02-16,Cathay Pacific,22 hr 5 min,1 stop,185511
+2025-01-30,DAC,JFK,2025-02-17,"Biman, Cathay Pacific",36 hr 5 min,2 stops,157613
+2025-01-30,DAC,JFK,2025-02-17,"Biman, Cathay Pacific",29 hr 40 min,2 stops,163444
+2025-01-30,DAC,JFK,2025-02-17,Ethiopian,26 hr 55 min,2 stops,184844
+2025-01-30,DAC,JFK,2025-02-18,"Biman, Etihad",29 hr 25 min,1 stop,165166
+2025-01-30,DAC,JFK,2025-02-18,Cathay Pacific,22 hr 5 min,1 stop,185511
+2025-01-30,DAC,JFK,2025-02-18,Qatar Airways,22 hr 40 min,1 stop,203173
+2025-01-30,DAC,JFK,2025-02-19,"China Eastern, Alaska",42 hr 59 min,3 stops,151911
+2025-01-30,DAC,JFK,2025-02-19,"Biman, Cathay Pacific",29 hr 25 min,2 stops,155764
+2025-01-30,DAC,JFK,2025-02-19,Cathay Pacific,22 hr 5 min,1 stop,159666
+2025-01-30,DAC,JFK,2025-02-19,"Biman, Etihad",26 hr 30 min,2 stops,169459
+2025-01-30,DAC,JFK,2025-02-19,Turkish Airlines,26 hr 20 min,1 stop,205719
+2025-01-30,DAC,JFK,2025-02-20,"Biman, Cathay Pacific",29 hr 25 min,2 stops,155764
+2025-01-30,DAC,JFK,2025-02-20,"Biman, Etihad",29 hr 25 min,1 stop,173291
+2025-01-30,DAC,JFK,2025-02-20,"IndiGo, Turkish Airlines",36 hr 45 min,2 stops,185968
+2025-01-30,DAC,JFK,2025-02-20,Saudia,30 hr 40 min,1 stop,239794
+2025-01-30,DAC,JFK,2025-02-20,Qatar Airways,22 hr 40 min,1 stop,262083
+2025-01-30,DAC,JFK,2025-02-21,Ethiopian,26 hr 55 min,2 stops,201041
+2025-01-30,DAC,JFK,2025-02-21,Qatar Airways,22 hr 45 min,1 stop,210252
+2025-01-30,DAC,JFK,2025-02-21,Cathay Pacific,22 hr 5 min,1 stop,210586
+2025-01-30,DAC,JFK,2025-02-22,"Biman, Cathay Pacific",29 hr 25 min,2 stops,184919
+2025-01-30,DAC,JFK,2025-02-22,"IndiGo, Turkish Airlines",36 hr 45 min,2 stops,197846
+2025-01-30,DAC,JFK,2025-02-22,"Biman, Etihad",29 hr 25 min,1 stop,239822
+2025-01-30,DAC,JFK,2025-02-22,Turkish Airlines,22 hr 15 min,1 stop,293904
+2025-01-30,DAC,JFK,2025-02-22,Qatar Airways,22 hr 40 min,1 stop,300357
+2025-01-30,DAC,JFK,2025-02-23,"China Eastern, Alaska",42 hr 59 min,3 stops,149236
+2025-01-30,DAC,JFK,2025-02-23,"IndiGo, Turkish Airlines",39 hr,2 stops,187074
+2025-01-30,DAC,JFK,2025-02-23,"Biman, Etihad",31 hr 30 min,2 stops,199454
+2025-01-30,DAC,JFK,2025-02-23,Cathay Pacific,22 hr 5 min,1 stop,210586
+2025-01-30,DAC,JFK,2025-02-24,"Biman, Cathay Pacific",32 hr 20 min,2 stops,156386
+2025-01-30,DAC,JFK,2025-02-24,Ethiopian,26 hr 55 min,2 stops,219998
+2025-01-30,DAC,JFK,2025-02-24,Qatar Airways,22 hr 40 min,1 stop,255124
+2025-01-30,DAC,JFK,2025-02-25,"Biman, Etihad",29 hr 25 min,1 stop,172485
+2025-01-30,DAC,JFK,2025-02-25,Cathay Pacific,22 hr 5 min,1 stop,216585
+2025-01-30,DAC,JFK,2025-02-25,Qatar Airways,22 hr 40 min,1 stop,232808
+2025-01-30,DAC,JFK,2025-02-26,"China Eastern, Alaska",42 hr 59 min,3 stops,150803
+2025-01-30,DAC,JFK,2025-02-26,"Biman, Cathay Pacific",35 hr 50 min,2 stops,157613
+2025-01-30,DAC,JFK,2025-02-26,"Biman, Etihad",33 hr 15 min,2 stops,165166
+2025-01-30,DAC,JFK,2025-02-26,Cathay Pacific,22 hr 5 min,1 stop,184741
+2025-01-30,DAC,JFK,2025-02-26,Qatar Airways,22 hr 40 min,1 stop,224289
+2025-01-30,DAC,JFK,2025-02-27,"Biman, Cathay Pacific",29 hr 25 min,2 stops,155764
+2025-01-30,DAC,JFK,2025-02-27,"Biman, Etihad",29 hr 25 min,1 stop,165166
+2025-01-30,DAC,JFK,2025-02-27,Qatar Airways,22 hr 40 min,1 stop,224649
+2025-01-30,DAC,JFK,2025-02-28,"Qatar Airways, Royal Jordanian",40 hr 30 min,2 stops,153467
+2025-01-30,DAC,JFK,2025-02-28,Qatar Airways,32 hr 15 min,1 stop,181456
+2025-01-30,DAC,JFK,2025-02-28,Cathay Pacific,22 hr 5 min,1 stop,185511
+2025-01-30,DAC,JFK,2025-02-28,Qatar Airways,22 hr 45 min,1 stop,186256
+2025-01-30,DAC,JFK,2025-02-28,Turkish Airlines,26 hr 20 min,1 stop,205719
+2025-01-30,DAC,JFK,2025-03-01,"Biman, Cathay Pacific",29 hr 25 min,2 stops,156844
+2025-01-30,DAC,JFK,2025-03-01,"IndiGo, Turkish Airlines",39 hr,2 stops,176433
+2025-01-30,DAC,JFK,2025-03-01,Turkish Airlines,26 hr 20 min,1 stop,205719
+2025-01-30,DAC,JFK,2025-03-01,Saudia,30 hr 40 min,1 stop,220297
+2025-01-30,DAC,JFK,2025-03-01,Qatar Airways,22 hr 40 min,1 stop,255844
+2025-01-30,DAC,JFK,2025-03-02,"IndiGo, Turkish Airlines",39 hr,2 stops,166978
+2025-01-30,DAC,JFK,2025-03-02,Cathay Pacific,22 hr 5 min,1 stop,173873
+2025-01-30,DAC,JFK,2025-03-02,Qatar Airways,22 hr 45 min,1 stop,199405
+2025-01-30,DAC,JFK,2025-03-03,"Biman, Cathay Pacific",29 hr 25 min,2 stops,156844
+2025-01-30,DAC,JFK,2025-03-03,"Biman, Etihad",26 hr 30 min,2 stops,166486
+2025-01-30,DAC,JFK,2025-03-03,Ethiopian,26 hr 55 min,2 stops,182204
+2025-01-30,DAC,JFK,2025-03-03,Emirates,24 hr 30 min,1 stop,207385
+2025-01-30,DAC,JFK,2025-03-04,Cathay Pacific,22 hr 5 min,1 stop,138280
+2025-01-30,DAC,JFK,2025-03-04,Emirates,33 hr 20 min,1 stop,166712
+2025-01-30,DAC,JFK,2025-03-04,Qatar Airways,22 hr 40 min,1 stop,181456
+2025-01-30,DAC,JFK,2025-03-05,Cathay Pacific,22 hr 5 min,1 stop,122112
+2025-01-30,DAC,JFK,2025-03-05,Emirates,30 hr 10 min,1 stop,153874
+2025-01-30,DAC,JFK,2025-03-05,Emirates,24 hr 30 min,1 stop,166712
+2025-01-30,DAC,JFK,2025-03-06,Turkish Airlines,26 hr 20 min,1 stop,161206
+2025-01-30,DAC,JFK,2025-03-06,Emirates,24 hr 30 min,1 stop,166712
+2025-01-30,DAC,JFK,2025-03-06,Qatar Airways,22 hr 40 min,1 stop,174737
+2025-01-30,DAC,JFK,2025-03-07,Cathay Pacific,22 hr 5 min,1 stop,138280
+2025-01-30,DAC,JFK,2025-03-07,Emirates,28 hr 55 min,2 stops,153874
+2025-01-30,DAC,JFK,2025-03-07,Turkish Airlines,22 hr 15 min,1 stop,163014
+2025-01-30,DAC,JFK,2025-03-07,Qatar Airways,22 hr 45 min,1 stop,164299
+2025-01-30,DAC,JFK,2025-03-07,Emirates,23 hr 55 min,1 stop,166712
+2025-01-30,DAC,JFK,2025-03-08,Turkish Airlines,26 hr 20 min,1 stop,145609
+2025-01-30,DAC,JFK,2025-03-08,Turkish Airlines,22 hr 15 min,1 stop,150416
+2025-01-30,DAC,JFK,2025-03-08,Emirates,24 hr 5 min,1 stop,169471
+2025-01-30,DAC,JFK,2025-03-09,Cathay Pacific,22 hr 5 min,1 stop,138280
+2025-01-30,DAC,JFK,2025-03-09,Turkish Airlines,26 hr 20 min,1 stop,145617
+2025-01-30,DAC,JFK,2025-03-09,Emirates,24 hr 5 min,1 stop,153874
+2025-01-30,DAC,JFK,2025-03-10,Turkish Airlines,26 hr 20 min,1 stop,145609
+2025-01-30,DAC,JFK,2025-03-10,"Biman, Cathay Pacific",28 hr 25 min,2 stops,149766
+2025-01-30,DAC,JFK,2025-03-10,Emirates,27 hr 55 min,2 stops,156633
+2025-01-30,DAC,JFK,2025-03-10,Emirates,24 hr 5 min,1 stop,156633
+2025-01-30,DAC,JFK,2025-03-10,Qatar Airways,22 hr 30 min,1 stop,183496
+2025-01-30,DAC,JFK,2025-03-11,Emirates,29 hr 40 min,1 stop,139956
+2025-01-30,DAC,JFK,2025-03-11,Emirates,24 hr 5 min,1 stop,145475
+2025-01-30,DAC,JFK,2025-03-11,Turkish Airlines,21 hr 55 min,1 stop,145609
+2025-01-30,DAC,JFK,2025-03-11,Emirates,23 hr 25 min,1 stop,153874
+2025-01-30,DAC,JFK,2025-03-12,Cathay Pacific,22 hr 5 min,1 stop,122112
+2025-01-30,DAC,JFK,2025-03-12,Emirates,23 hr 25 min,1 stop,145475
+2025-01-30,DAC,JFK,2025-03-12,Turkish Airlines,21 hr 55 min,1 stop,145609
+2025-01-30,DAC,JFK,2025-03-13,Emirates,27 hr 55 min,2 stops,139956
+2025-01-30,DAC,JFK,2025-03-13,Turkish Airlines,21 hr 55 min,1 stop,143809
+2025-01-30,DAC,JFK,2025-03-13,Emirates,23 hr 25 min,1 stop,145475
+2025-01-30,DAC,JFK,2025-03-13,Emirates,24 hr 5 min,1 stop,145475
+2025-01-30,DAC,JFK,2025-03-14,Turkish Airlines,21 hr 55 min,1 stop,145609
+2025-01-30,DAC,JFK,2025-03-14,Emirates,23 hr 25 min,1 stop,148235
+2025-01-30,DAC,JFK,2025-03-14,Qatar Airways,22 hr 30 min,1 stop,150741
+2025-01-30,DAC,JFK,2025-03-15,Emirates,34 hr 10 min,2 stops,139956
+2025-01-30,DAC,JFK,2025-03-15,Emirates,23 hr 25 min,1 stop,145475
+2025-01-30,DAC,JFK,2025-03-15,Emirates,24 hr 5 min,1 stop,145475
+2025-01-30,DAC,JFK,2025-03-15,Turkish Airlines,26 hr 20 min,1 stop,145609
+2025-01-30,DAC,JFK,2025-03-15,Qatar Airways,22 hr 30 min,1 stop,148102
+2025-01-30,DAC,JFK,2025-03-16,Qatar Airways,22 hr 30 min,1 stop,139103
+2025-01-30,DAC,JFK,2025-03-16,Turkish Airlines,21 hr 55 min,1 stop,145609
+2025-01-30,DAC,JFK,2025-03-16,Emirates,24 hr 5 min,1 stop,151114
+2025-01-30,DAC,JFK,2025-03-17,Turkish Airlines,21 hr 55 min,1 stop,145609
+2025-01-30,DAC,JFK,2025-03-17,Qatar Airways,22 hr 30 min,1 stop,159740
+2025-01-30,DAC,JFK,2025-03-17,Emirates,23 hr 25 min,1 stop,166712
+2025-01-30,DAC,JFK,2025-03-18,Qatar Airways,22 hr 30 min,1 stop,139103
+2025-01-30,DAC,JFK,2025-03-18,Turkish Airlines,21 hr 55 min,1 stop,145609
+2025-01-30,DAC,JFK,2025-03-18,Emirates,23 hr 25 min,1 stop,169471
+2025-01-30,DAC,JFK,2025-03-19,Cathay Pacific,22 hr 5 min,1 stop,122112
+2025-01-30,DAC,JFK,2025-03-19,Qatar Airways,22 hr 30 min,1 stop,148102
+2025-01-30,DAC,JFK,2025-03-19,Turkish Airlines,21 hr 55 min,1 stop,150416
+2025-01-30,DAC,JFK,2025-03-20,Qatar Airways,22 hr 30 min,1 stop,132936
+2025-01-30,DAC,JFK,2025-03-20,Qatar Airways,45 hr 25 min,1 stop,133248
+2025-01-30,DAC,JFK,2025-03-20,Turkish Airlines,21 hr 55 min,1 stop,143809
+2025-01-30,DAC,JFK,2025-03-20,"Biman, Cathay Pacific",28 hr 25 min,2 stops,149765
+2025-01-30,DAC,JFK,2025-03-20,Emirates,23 hr 25 min,1 stop,179550
+2025-01-30,DAC,JFK,2025-03-21,Qatar Airways,28 hr 5 min,1 stop,133704
+2025-01-30,DAC,JFK,2025-03-21,Qatar Airways,22 hr 30 min,1 stop,142175
+2025-01-30,DAC,JFK,2025-03-21,Cathay Pacific,22 hr 5 min,1 stop,147957
+2025-01-30,DAC,JFK,2025-03-21,Turkish Airlines,21 hr 55 min,1 stop,156167
+2025-01-30,DAC,JFK,2025-03-22,Qatar Airways,45 hr 25 min,1 stop,134016
+2025-01-30,DAC,JFK,2025-03-22,Qatar Airways,22 hr 30 min,1 stop,139103
+2025-01-30,DAC,JFK,2025-03-22,Turkish Airlines,21 hr 55 min,1 stop,156167
+2025-01-30,DAC,JFK,2025-03-23,Qatar Airways,45 hr 25 min,1 stop,134016
+2025-01-30,DAC,JFK,2025-03-23,Qatar Airways,22 hr 30 min,1 stop,139415
+2025-01-30,DAC,JFK,2025-03-23,Turkish Airlines,21 hr 55 min,1 stop,145609
+2025-01-30,DAC,JFK,2025-03-24,Qatar Airways,22 hr 30 min,1 stop,142175
+2025-01-30,DAC,JFK,2025-03-24,Turkish Airlines,21 hr 55 min,1 stop,145609
+2025-01-30,DAC,JFK,2025-03-24,Emirates,23 hr 25 min,1 stop,156678
+2025-01-30,DAC,JFK,2025-03-25,Qatar Airways,45 hr 25 min,1 stop,134016
+2025-01-30,DAC,JFK,2025-03-25,Qatar Airways,22 hr 30 min,1 stop,139103
+2025-01-30,DAC,JFK,2025-03-25,Emirates,23 hr 25 min,1 stop,142400
+2025-01-30,DAC,JFK,2025-03-25,Emirates,24 hr 5 min,1 stop,142400
+2025-01-30,DAC,JFK,2025-03-25,Turkish Airlines,21 hr 55 min,1 stop,145609
+2025-01-30,DAC,JFK,2025-03-26,Cathay Pacific,22 hr 5 min,1 stop,138280
+2025-01-30,DAC,JFK,2025-03-26,Emirates,23 hr 25 min,1 stop,142400
+2025-01-30,DAC,JFK,2025-03-26,Emirates,24 hr 5 min,1 stop,142400
+2025-01-30,DAC,JFK,2025-03-26,Turkish Airlines,21 hr 55 min,1 stop,145609
+2025-01-30,DAC,JFK,2025-03-26,Qatar Airways,22 hr 30 min,1 stop,148102
+2025-01-30,DAC,JFK,2025-03-27,Qatar Airways,22 hr 30 min,1 stop,139103
+2025-01-30,DAC,JFK,2025-03-27,Emirates,23 hr 25 min,1 stop,142400
+2025-01-30,DAC,JFK,2025-03-27,Emirates,24 hr 5 min,1 stop,142400
+2025-01-30,DAC,JFK,2025-03-27,Turkish Airlines,21 hr 55 min,1 stop,143809
+2025-01-30,DAC,JFK,2025-03-28,Ethiopian,26 hr 55 min,2 stops,139611
+2025-01-30,DAC,JFK,2025-03-28,Qatar Airways,22 hr 30 min,1 stop,141863
+2025-01-30,DAC,JFK,2025-03-28,Emirates,27 hr 55 min,2 stops,145279
+2025-01-30,DAC,JFK,2025-03-28,Turkish Airlines,21 hr 55 min,1 stop,145609
+2025-01-30,DAC,JFK,2025-03-28,Emirates,23 hr 25 min,1 stop,150918
+2025-01-30,DAC,JFK,2025-03-29,Emirates,27 hr 55 min,2 stops,142400
+2025-01-30,DAC,JFK,2025-03-29,Emirates,24 hr 5 min,1 stop,142564
+2025-01-30,DAC,JFK,2025-03-29,Turkish Airlines,26 hr 20 min,1 stop,145617
+2025-01-30,DAC,JFK,2025-03-29,Emirates,23 hr 25 min,1 stop,148039
+2025-01-30,DAC,JFK,2025-03-29,Qatar Airways,22 hr 30 min,1 stop,148102
+2025-01-30,DAC,JFK,2025-03-30,Emirates,23 hr 25 min,1 stop,142564
+2025-01-30,DAC,JFK,2025-03-30,Emirates,23 hr 20 min,1 stop,142564
+2025-01-30,DAC,JFK,2025-03-30,Turkish Airlines,21 hr 25 min,1 stop,145617
+2025-01-30,DAC,JFK,2025-03-30,Qatar Airways,22 hr 10 min,1 stop,148102
+2025-01-30,DAC,JFK,2025-03-30,Qatar Airways,21 hr 35 min,1 stop,148102
+2025-01-30,DAC,JFK,2025-03-31,Ethiopian,26 hr 55 min,2 stops,117100
+2025-01-30,DAC,JFK,2025-03-31,Emirates,22 hr 45 min,1 stop,145443
+2025-01-30,DAC,JFK,2025-03-31,Emirates,23 hr 20 min,1 stop,145443
+2025-01-30,DAC,JFK,2025-03-31,Turkish Airlines,21 hr 25 min,1 stop,145617
+2025-01-30,DAC,JFK,2025-03-31,Qatar Airways,21 hr 35 min,1 stop,150861
+2025-01-30,DAC,JFK,2025-04-01,Emirates,22 hr 45 min,1 stop,142564
+2025-01-30,DAC,JFK,2025-04-01,Emirates,23 hr 20 min,1 stop,142564
+2025-01-30,DAC,JFK,2025-04-01,Turkish Airlines,21 hr 25 min,1 stop,145617
+2025-01-30,DAC,JFK,2025-04-01,Qatar Airways,21 hr 35 min,1 stop,181456
+2025-01-30,DAC,JFK,2025-04-02,Emirates,32 hr 35 min,1 stop,142564
+2025-01-30,DAC,JFK,2025-04-02,Emirates,22 hr 45 min,1 stop,148203
+2025-01-30,DAC,JFK,2025-04-02,Emirates,23 hr 20 min,1 stop,148203
+2025-01-30,DAC,JFK,2025-04-02,Turkish Airlines,26 hr 10 min,1 stop,150416
+2025-01-30,DAC,JFK,2025-04-03,Qatar Airways,32 hr 5 min,1 stop,153261
+2025-01-30,DAC,JFK,2025-04-03,Turkish Airlines,21 hr 25 min,1 stop,161214
+2025-01-30,DAC,JFK,2025-04-03,Emirates,22 hr 45 min,1 stop,169919
+2025-01-30,DAC,JFK,2025-04-04,Ethiopian,26 hr 50 min,2 stops,131693
+2025-01-30,DAC,JFK,2025-04-04,Turkish Airlines,21 hr 25 min,1 stop,171172
+2025-01-30,DAC,JFK,2025-04-04,Qatar Airways,21 hr 35 min,1 stop,179897
+2025-01-30,DAC,JFK,2025-04-04,Emirates,22 hr 45 min,1 stop,182997
+2025-01-30,DAC,JFK,2025-04-05,Turkish Airlines,26 hr 10 min,1 stop,150408
+2025-01-30,DAC,JFK,2025-04-05,Saudia,30 hr 10 min,1 stop,167196
+2025-01-30,DAC,JFK,2025-04-05,Emirates,22 hr 45 min,1 stop,185757
+2025-01-30,DAC,JFK,2025-04-06,Cathay Pacific,21 hr 5 min,1 stop,140711
+2025-01-30,DAC,JFK,2025-04-06,Turkish Airlines,26 hr 10 min,1 stop,150416
+2025-01-30,DAC,JFK,2025-04-06,Emirates,23 hr 20 min,1 stop,169919
+2025-01-30,DAC,JFK,2025-04-07,Ethiopian,26 hr 55 min,2 stops,117700
+2025-01-30,DAC,JFK,2025-04-07,Turkish Airlines,26 hr 10 min,1 stop,163014
+2025-01-30,DAC,JFK,2025-04-07,Emirates,23 hr 20 min,1 stop,197155
+2025-01-30,DAC,JFK,2025-04-08,Turkish Airlines,26 hr 10 min,1 stop,167813
+2025-01-30,DAC,JFK,2025-04-08,Saudia,30 hr 10 min,1 stop,174275
+2025-01-30,DAC,JFK,2025-04-08,Emirates,23 hr 20 min,1 stop,182997
+2025-01-30,DAC,JFK,2025-04-09,Qatar Airways,21 hr 35 min,1 stop,161300
+2025-01-30,DAC,JFK,2025-04-09,Turkish Airlines,26 hr 10 min,1 stop,163014
+2025-01-30,DAC,JFK,2025-04-09,Emirates,23 hr 20 min,1 stop,177238
+2025-01-30,DAC,JFK,2025-04-10,Qatar Airways,32 hr 5 min,1 stop,150741
+2025-01-30,DAC,JFK,2025-04-10,Turkish Airlines,26 hr 10 min,1 stop,161214
+2025-01-30,DAC,JFK,2025-04-10,Emirates,23 hr 20 min,1 stop,182997
+2025-01-30,DAC,JFK,2025-04-11,Ethiopian,26 hr 50 min,2 stops,127133
+2025-01-30,DAC,JFK,2025-04-11,Turkish Airlines,26 hr 10 min,1 stop,150416
+2025-01-30,DAC,JFK,2025-04-11,Emirates,22 hr 45 min,1 stop,182997
+2025-01-30,DAC,JFK,2025-04-12,Turkish Airlines,38 hr 25 min,1 stop,150408
+2025-01-30,DAC,JFK,2025-04-12,Qatar Airways,32 hr 5 min,1 stop,160100
+2025-01-30,DAC,JFK,2025-04-12,Saudia,30 hr 10 min,1 stop,167196
+2025-01-30,DAC,JFK,2025-04-12,Emirates,22 hr 45 min,1 stop,185757
+2025-01-30,DAC,JFK,2025-04-13,Turkish Airlines,26 hr 10 min,1 stop,150416
+2025-01-30,DAC,JFK,2025-04-13,Emirates,23 hr 20 min,1 stop,164160
+2025-01-30,DAC,JFK,2025-04-13,Saudia,30 hr 10 min,1 stop,167196
+2025-01-30,DAC,JFK,2025-04-13,Qatar Airways,21 hr 35 min,1 stop,175097
+2025-01-30,DAC,JFK,2025-04-13,Emirates,22 hr 45 min,1 stop,177238
+2025-01-30,DAC,JFK,2025-04-14,Ethiopian,26 hr 55 min,2 stops,117700
+2025-01-30,DAC,JFK,2025-04-14,Turkish Airlines,26 hr 10 min,1 stop,163006
+2025-01-30,DAC,JFK,2025-04-14,Qatar Airways,21 hr 35 min,1 stop,169398
+2025-01-30,DAC,JFK,2025-04-14,Emirates,23 hr 20 min,1 stop,185757
+2025-01-30,DAC,JFK,2025-04-15,Qatar Airways,32 hr 5 min,1 stop,160100
+2025-01-30,DAC,JFK,2025-04-15,Turkish Airlines,26 hr 10 min,1 stop,163006
+2025-01-30,DAC,JFK,2025-04-15,Emirates,22 hr 45 min,1 stop,182997
+2025-01-30,DAC,JFK,2025-04-16,Cathay Pacific,21 hr 5 min,1 stop,140711
+2025-01-30,DAC,JFK,2025-04-16,Saudia,32 hr 20 min,1 stop,166836
+2025-01-30,DAC,JFK,2025-04-16,Qatar Airways,21 hr 35 min,1 stop,175097
+2025-01-30,DAC,JFK,2025-04-16,Emirates,23 hr 20 min,1 stop,182997
+2025-01-30,DAC,JFK,2025-04-16,Turkish Airlines,21 hr 25 min,1 stop,192169
+2025-01-30,DAC,JFK,2025-04-17,Emirates,23 hr 20 min,1 stop,169919
+2025-01-30,DAC,JFK,2025-04-17,Qatar Airways,21 hr 35 min,1 stop,175097
+2025-01-30,DAC,JFK,2025-04-17,Turkish Airlines,21 hr 25 min,1 stop,178963
+2025-01-30,DAC,JFK,2025-04-18,Ethiopian,26 hr 50 min,2 stops,118135
+2025-01-30,DAC,JFK,2025-04-18,Qatar Airways,21 hr 35 min,1 stop,150741
+2025-01-30,DAC,JFK,2025-04-18,Emirates,23 hr 20 min,1 stop,169919
+2025-01-30,DAC,JFK,2025-04-19,Emirates,22 hr 45 min,1 stop,172799
+2025-01-30,DAC,JFK,2025-04-19,Emirates,23 hr 20 min,1 stop,172799
+2025-01-30,DAC,JFK,2025-04-19,Turkish Airlines,21 hr 25 min,1 stop,205727
+2025-01-30,DAC,JFK,2025-04-20,Saudia,30 hr 10 min,1 stop,154838
+2025-01-30,DAC,JFK,2025-04-20,Emirates,23 hr 20 min,1 stop,156842
+2025-01-30,DAC,JFK,2025-04-20,Emirates,22 hr 45 min,1 stop,182997
+2025-01-30,DAC,JFK,2025-04-20,Qatar Airways,21 hr 35 min,1 stop,205452
+2025-01-30,DAC,JFK,2025-04-20,Turkish Airlines,21 hr 25 min,1 stop,205719
+2025-01-30,DAC,JFK,2025-04-21,Ethiopian,26 hr 55 min,2 stops,127133
+2025-01-30,DAC,JFK,2025-04-21,Qatar Airways,21 hr 35 min,1 stop,150861
+2025-01-30,DAC,JFK,2025-04-21,Emirates,22 hr 45 min,1 stop,159601
+2025-01-30,DAC,JFK,2025-04-22,Turkish Airlines,26 hr 10 min,1 stop,145609
+2025-01-30,DAC,JFK,2025-04-22,Qatar Airways,32 hr 5 min,1 stop,148102
+2025-01-30,DAC,JFK,2025-04-22,Emirates,33 hr 25 min,2 stops,148203
+2025-01-30,DAC,JFK,2025-04-22,Emirates,22 hr 45 min,1 stop,156842
+2025-01-30,DAC,JFK,2025-04-22,Emirates,23 hr 20 min,1 stop,156842
+2025-01-30,DAC,JFK,2025-04-23,Cathay Pacific,21 hr 5 min,1 stop,140711
+2025-01-30,DAC,JFK,2025-04-23,Qatar Airways,21 hr 35 min,1 stop,148102
+2025-01-30,DAC,JFK,2025-04-23,Emirates,22 hr 45 min,1 stop,156842
+2025-01-30,DAC,JFK,2025-04-24,Qatar Airways,32 hr 5 min,1 stop,141863
+2025-01-30,DAC,JFK,2025-04-24,Emirates,27 hr 15 min,2 stops,148203
+2025-01-30,DAC,JFK,2025-04-24,Turkish Airlines,26 hr 10 min,1 stop,148616
+2025-01-30,DAC,JFK,2025-04-24,Emirates,22 hr 45 min,1 stop,156842
+2025-01-30,DAC,JFK,2025-04-25,Ethiopian,26 hr 50 min,2 stops,127133
+2025-01-30,DAC,JFK,2025-04-25,Turkish Airlines,26 hr 10 min,1 stop,145609
+2025-01-30,DAC,JFK,2025-04-25,Qatar Airways,32 hr 5 min,1 stop,148102
+2025-01-30,DAC,JFK,2025-04-25,Emirates,22 hr 45 min,1 stop,156842
+2025-01-30,DAC,JFK,2025-04-26,Turkish Airlines,26 hr 10 min,1 stop,145609
+2025-01-30,DAC,JFK,2025-04-26,Qatar Airways,21 hr 35 min,1 stop,148102
+2025-01-30,DAC,JFK,2025-04-26,Emirates,22 hr 45 min,1 stop,159601
+2025-01-30,DAC,JFK,2025-04-27,Qatar Airways,21 hr 35 min,1 stop,148102
+2025-01-30,DAC,JFK,2025-04-27,Turkish Airlines,21 hr 25 min,1 stop,150408
+2025-01-30,DAC,JFK,2025-04-27,Emirates,22 hr 45 min,1 stop,156842
+2025-01-30,DAC,JFK,2025-04-28,Ethiopian,26 hr 55 min,2 stops,122259
+2025-01-30,DAC,JFK,2025-04-28,Turkish Airlines,26 hr 10 min,1 stop,145609
+2025-01-30,DAC,JFK,2025-04-28,Qatar Airways,21 hr 35 min,1 stop,146902
+2025-01-30,DAC,JFK,2025-04-28,Emirates,23 hr 20 min,1 stop,151082
+2025-01-30,DAC,JFK,2025-04-29,Turkish Airlines,26 hr 10 min,1 stop,145609
+2025-01-30,DAC,JFK,2025-04-29,Emirates,23 hr 20 min,1 stop,148203
+2025-01-30,DAC,JFK,2025-04-29,Qatar Airways,21 hr 35 min,1 stop,153261
+2025-01-30,DAC,JFK,2025-04-30,Turkish Airlines,26 hr 10 min,1 stop,145609
+2025-01-30,DAC,JFK,2025-04-30,Qatar Airways,21 hr 35 min,1 stop,148102
+2025-01-30,DAC,JFK,2025-04-30,Emirates,27 hr 15 min,2 stops,148203
+2025-01-30,DAC,JFK,2025-04-30,Emirates,23 hr 20 min,1 stop,148203
+2025-01-30,DAC,JFK,2025-04-30,Emirates,22 hr 45 min,1 stop,156842
+2025-01-30,DAC,LHR,2025-02-01,Biman,27 hr 20 min,1 stop,137485
+2025-01-30,DAC,LHR,2025-02-01,"Biman, Cathay Pacific",27 hr 5 min,2 stops,162386
+2025-01-30,DAC,LHR,2025-02-01,Qatar Airways,15 hr 5 min,1 stop,203414
+2025-01-30,DAC,LHR,2025-02-01,Emirates,16 hr 40 min,1 stop,217702
+2025-01-30,DAC,LHR,2025-02-02,Biman,14 hr,1 stop,136024
+2025-01-30,DAC,LHR,2025-02-02,"Biman, Etihad",24 hr 55 min,2 stops,162297
+2025-01-30,DAC,LHR,2025-02-02,Emirates,16 hr 40 min,1 stop,193706
+2025-01-30,DAC,LHR,2025-02-03,China Eastern,32 hr 30 min,2 stops,115781
+2025-01-30,DAC,LHR,2025-02-03,"Biman, Etihad",19 hr 35 min,2 stops,138603
+2025-01-30,DAC,LHR,2025-02-03,Emirates,27 hr 15 min,1 stop,194363
+2025-01-30,DAC,LHR,2025-02-04,China Eastern,32 hr 30 min,2 stops,116159
+2025-01-30,DAC,LHR,2025-02-04,"Biman, Etihad",27 hr 20 min,2 stops,148246
+2025-01-30,DAC,LHR,2025-02-04,Malaysia Airlines,22 hr 30 min,1 stop,178306
+2025-01-30,DAC,LHR,2025-02-04,Qatar Airways,15 hr 45 min,1 stop,197832
+2025-01-30,DAC,LHR,2025-02-04,Emirates,16 hr 40 min,1 stop,217702
+2025-01-30,DAC,LHR,2025-02-05,China Eastern,32 hr 30 min,2 stops,111621
+2025-01-30,DAC,LHR,2025-02-05,"Biman, Etihad",19 hr 35 min,2 stops,148246
+2025-01-30,DAC,LHR,2025-02-05,Cathay Pacific,19 hr 55 min,1 stop,165666
+2025-01-30,DAC,LHR,2025-02-06,China Eastern,32 hr 30 min,2 stops,102239
+2025-01-30,DAC,LHR,2025-02-06,"Biman, Etihad",27 hr 20 min,2 stops,146475
+2025-01-30,DAC,LHR,2025-02-06,Qatar Airways,16 hr 10 min,1 stop,183617
+2025-01-30,DAC,LHR,2025-02-07,China Eastern,32 hr 30 min,2 stops,108454
+2025-01-30,DAC,LHR,2025-02-07,"Biman, Etihad",19 hr 35 min,2 stops,136832
+2025-01-30,DAC,LHR,2025-02-07,Qatar Airways,16 hr 10 min,1 stop,203414
+2025-01-30,DAC,LHR,2025-02-08,China Eastern,32 hr 30 min,2 stops,120879
+2025-01-30,DAC,LHR,2025-02-08,"Biman, Cathay Pacific",25 hr 40 min,2 stops,161764
+2025-01-30,DAC,LHR,2025-02-08,Malaysia Airlines,22 hr 30 min,1 stop,189824
+2025-01-30,DAC,LHR,2025-02-08,Qatar Airways,15 hr 5 min,1 stop,203414
+2025-01-30,DAC,LHR,2025-02-08,Saudia,16 hr 25 min,1 stop,215572
+2025-01-30,DAC,LHR,2025-02-09,China Eastern,32 hr 30 min,2 stops,116461
+2025-01-30,DAC,LHR,2025-02-09,Qatar Airways,15 hr 5 min,1 stop,208750
+2025-01-30,DAC,LHR,2025-02-09,Saudia,16 hr 25 min,1 stop,224690
+2025-01-30,DAC,LHR,2025-02-09,Turkish Airlines,17 hr,1 stop,227915
+2025-01-30,DAC,LHR,2025-02-10,China Eastern,32 hr 30 min,2 stops,135975
+2025-01-30,DAC,LHR,2025-02-10,"Biman, Etihad",19 hr 35 min,2 stops,183611
+2025-01-30,DAC,LHR,2025-02-10,Saudia,16 hr 25 min,1 stop,224690
+2025-01-30,DAC,LHR,2025-02-10,Qatar Airways,15 hr 5 min,1 stop,228370
+2025-01-30,DAC,LHR,2025-02-11,China Eastern,32 hr 30 min,2 stops,135975
+2025-01-30,DAC,LHR,2025-02-11,Qatar Airways,15 hr 5 min,1 stop,228427
+2025-01-30,DAC,LHR,2025-02-11,Saudia,16 hr 25 min,1 stop,237285
+2025-01-30,DAC,LHR,2025-02-12,China Eastern,32 hr 30 min,2 stops,102239
+2025-01-30,DAC,LHR,2025-02-12,"Biman, Etihad",19 hr 35 min,2 stops,131646
+2025-01-30,DAC,LHR,2025-02-12,Cathay Pacific,19 hr 55 min,1 stop,165666
+2025-01-30,DAC,LHR,2025-02-12,Malaysia Airlines,23 hr 5 min,1 stop,178306
+2025-01-30,DAC,LHR,2025-02-12,Qatar Airways,16 hr 10 min,1 stop,183617
+2025-01-30,DAC,LHR,2025-02-13,China Eastern,32 hr 30 min,2 stops,96024
+2025-01-30,DAC,LHR,2025-02-13,"Biman, Etihad",24 hr 55 min,2 stops,134714
+2025-01-30,DAC,LHR,2025-02-13,Malaysia Airlines,23 hr 5 min,1 stop,183465
+2025-01-30,DAC,LHR,2025-02-13,Qatar Airways,15 hr 5 min,1 stop,203414
+2025-01-30,DAC,LHR,2025-02-14,China Eastern,32 hr 30 min,2 stops,96024
+2025-01-30,DAC,LHR,2025-02-14,"Biman, Etihad",19 hr 35 min,2 stops,126874
+2025-01-30,DAC,LHR,2025-02-14,Qatar Airways,15 hr 5 min,1 stop,183674
+2025-01-30,DAC,LHR,2025-02-15,China Eastern,32 hr 30 min,2 stops,127089
+2025-01-30,DAC,LHR,2025-02-15,"Biman, Cathay Pacific",25 hr 40 min,2 stops,161764
+2025-01-30,DAC,LHR,2025-02-15,Qatar Airways,16 hr 10 min,1 stop,183617
+2025-01-30,DAC,LHR,2025-02-15,Saudia,16 hr 25 min,1 stop,196195
+2025-01-30,DAC,LHR,2025-02-16,China Eastern,32 hr 30 min,2 stops,114664
+2025-01-30,DAC,LHR,2025-02-16,"Biman, Etihad",19 hr 35 min,2 stops,169479
+2025-01-30,DAC,LHR,2025-02-16,Cathay Pacific,19 hr 55 min,1 stop,175616
+2025-01-30,DAC,LHR,2025-02-16,Malaysia Airlines,23 hr 5 min,1 stop,183465
+2025-01-30,DAC,LHR,2025-02-17,China Eastern,32 hr 30 min,2 stops,108449
+2025-01-30,DAC,LHR,2025-02-17,"Biman, Etihad",19 hr 35 min,2 stops,138660
+2025-01-30,DAC,LHR,2025-02-17,Qatar Airways,14 hr 55 min,1 stop,183674
+2025-01-30,DAC,LHR,2025-02-18,China Eastern,32 hr 30 min,2 stops,96024
+2025-01-30,DAC,LHR,2025-02-18,Cathay Pacific,19 hr 55 min,1 stop,160436
+2025-01-30,DAC,LHR,2025-02-18,Qatar Airways,16 hr,1 stop,167597
+2025-01-30,DAC,LHR,2025-02-18,Gulf Air,16 hr 50 min,1 stop,184819
+2025-01-30,DAC,LHR,2025-02-19,China Eastern,32 hr 30 min,2 stops,96024
+2025-01-30,DAC,LHR,2025-02-19,Cathay Pacific,19 hr 55 min,1 stop,139087
+2025-01-30,DAC,LHR,2025-02-19,Gulf Air,26 hr 55 min,1 stop,174620
+2025-01-30,DAC,LHR,2025-02-20,China Eastern,32 hr 30 min,2 stops,102239
+2025-01-30,DAC,LHR,2025-02-20,"Biman, Cathay Pacific",27 hr 55 min,2 stops,170125
+2025-01-30,DAC,LHR,2025-02-20,Qatar Airways,14 hr 55 min,1 stop,203231
+2025-01-30,DAC,LHR,2025-02-20,Turkish Airlines,15 hr 15 min,1 stop,208064
+2025-01-30,DAC,LHR,2025-02-21,China Eastern,32 hr 30 min,2 stops,108449
+2025-01-30,DAC,LHR,2025-02-21,Qatar Airways,17 hr 15 min,1 stop,143544
+2025-01-30,DAC,LHR,2025-02-21,Qatar Airways,15 hr 5 min,1 stop,155479
+2025-01-30,DAC,LHR,2025-02-21,Qatar Airways,14 hr 55 min,1 stop,169276
+2025-01-30,DAC,LHR,2025-02-21,Malaysia Airlines,20 hr 35 min,1 stop,170027
+2025-01-30,DAC,LHR,2025-02-22,Biman,27 hr 20 min,1 stop,130751
+2025-01-30,DAC,LHR,2025-02-22,Oman Air,32 hr 20 min,1 stop,199015
+2025-01-30,DAC,LHR,2025-02-22,Malaysia Airlines,20 hr 35 min,1 stop,204701
+2025-01-30,DAC,LHR,2025-02-22,Qatar Airways,14 hr 55 min,1 stop,205453
+2025-01-30,DAC,LHR,2025-02-22,Turkish Airlines,15 hr 15 min,1 stop,231275
+2025-01-30,DAC,LHR,2025-02-23,China Eastern,32 hr 30 min,2 stops,96024
+2025-01-30,DAC,LHR,2025-02-23,Qatar Airways,14 hr 55 min,1 stop,191353
+2025-01-30,DAC,LHR,2025-02-24,China Eastern,32 hr 30 min,2 stops,96024
+2025-01-30,DAC,LHR,2025-02-24,Oman Air,32 hr 20 min,1 stop,163620
+2025-01-30,DAC,LHR,2025-02-24,"Biman, Etihad",19 hr 35 min,2 stops,165518
+2025-01-30,DAC,LHR,2025-02-24,Malaysia Airlines,20 hr 35 min,1 stop,175251
+2025-01-30,DAC,LHR,2025-02-25,China Eastern,32 hr 30 min,2 stops,96024
+2025-01-30,DAC,LHR,2025-02-25,Oman Air,32 hr 20 min,1 stop,137228
+2025-01-30,DAC,LHR,2025-02-25,Malaysia Airlines,20 hr 35 min,1 stop,150710
+2025-01-30,DAC,LHR,2025-02-26,China Eastern,32 hr 30 min,2 stops,102239
+2025-01-30,DAC,LHR,2025-02-26,Cathay Pacific,19 hr 55 min,1 stop,139030
+2025-01-30,DAC,LHR,2025-02-26,Malaysia Airlines,20 hr 35 min,1 stop,150710
+2025-01-30,DAC,LHR,2025-02-27,China Eastern,32 hr 30 min,2 stops,96024
+2025-01-30,DAC,LHR,2025-02-27,Oman Air,32 hr 20 min,1 stop,143104
+2025-01-30,DAC,LHR,2025-02-27,Malaysia Airlines,20 hr 35 min,1 stop,150710
+2025-01-30,DAC,LHR,2025-02-28,China Eastern,32 hr 30 min,2 stops,102239
+2025-01-30,DAC,LHR,2025-02-28,Qatar Airways,15 hr 5 min,1 stop,143544
+2025-01-30,DAC,LHR,2025-02-28,Malaysia Airlines,20 hr 35 min,1 stop,155870
+2025-01-30,DAC,LHR,2025-03-01,China Eastern,32 hr 30 min,2 stops,96024
+2025-01-30,DAC,LHR,2025-03-01,Malaysia Airlines,20 hr 35 min,1 stop,162293
+2025-01-30,DAC,LHR,2025-03-01,"Biman, Cathay Pacific",25 hr 40 min,2 stops,169501
+2025-01-30,DAC,LHR,2025-03-02,China Eastern,32 hr 30 min,2 stops,96024
+2025-01-30,DAC,LHR,2025-03-02,Malaysia Airlines,20 hr 35 min,1 stop,155935
+2025-01-30,DAC,LHR,2025-03-02,Qatar Airways,15 hr 5 min,1 stop,159558
+2025-01-30,DAC,LHR,2025-03-03,China Eastern,32 hr 30 min,2 stops,96024
+2025-01-30,DAC,LHR,2025-03-03,"Biman, Etihad",19 hr 35 min,2 stops,137021
+2025-01-30,DAC,LHR,2025-03-03,Oman Air,32 hr 20 min,1 stop,143161
+2025-01-30,DAC,LHR,2025-03-03,Malaysia Airlines,20 hr 35 min,1 stop,150775
+2025-01-30,DAC,LHR,2025-03-04,China Eastern,32 hr 30 min,2 stops,96024
+2025-01-30,DAC,LHR,2025-03-04,Qatar Airways,14 hr 55 min,1 stop,141801
+2025-01-30,DAC,LHR,2025-03-04,Emirates,16 hr 5 min,1 stop,143012
+2025-01-30,DAC,LHR,2025-03-05,China Eastern,32 hr 30 min,2 stops,96024
+2025-01-30,DAC,LHR,2025-03-05,Emirates,18 hr 25 min,1 stop,136893
+2025-01-30,DAC,LHR,2025-03-05,"Biman, Etihad",19 hr 35 min,2 stops,137021
+2025-01-30,DAC,LHR,2025-03-05,Cathay Pacific,19 hr 55 min,1 stop,139087
+2025-01-30,DAC,LHR,2025-03-05,Qatar Airways,15 hr 40 min,1 stop,139473
+2025-01-30,DAC,LHR,2025-03-06,China Eastern,32 hr 30 min,2 stops,96024
+2025-01-30,DAC,LHR,2025-03-06,Oman Air,32 hr 20 min,1 stop,129963
+2025-01-30,DAC,LHR,2025-03-06,Qatar Airways,15 hr 40 min,1 stop,131675
+2025-01-30,DAC,LHR,2025-03-06,Emirates,14 hr 25 min,1 stop,143012
+2025-01-30,DAC,LHR,2025-03-06,Turkish Airlines,15 hr 15 min,1 stop,151673
+2025-01-30,DAC,LHR,2025-03-07,China Eastern,32 hr 30 min,2 stops,108449
+2025-01-30,DAC,LHR,2025-03-07,Qatar Airways,15 hr 5 min,1 stop,131363
+2025-01-30,DAC,LHR,2025-03-07,Emirates,14 hr 25 min,1 stop,134133
+2025-01-30,DAC,LHR,2025-03-07,Turkish Airlines,15 hr 15 min,1 stop,153473
+2025-01-30,DAC,LHR,2025-03-07,Gulf Air,16 hr 50 min,1 stop,155664
+2025-01-30,DAC,LHR,2025-03-08,Emirates,16 hr 5 min,1 stop,134133
+2025-01-30,DAC,LHR,2025-03-08,Turkish Airlines,15 hr 15 min,1 stop,144714
+2025-01-30,DAC,LHR,2025-03-08,Saudia,16 hr 25 min,1 stop,156456
+2025-01-30,DAC,LHR,2025-03-08,Qatar Airways,14 hr 55 min,1 stop,163877
+2025-01-30,DAC,LHR,2025-03-09,China Eastern,32 hr 30 min,2 stops,96024
+2025-01-30,DAC,LHR,2025-03-09,Emirates,14 hr 25 min,1 stop,126814
+2025-01-30,DAC,LHR,2025-03-09,Qatar Airways,14 hr 55 min,1 stop,128723
+2025-01-30,DAC,LHR,2025-03-09,Turkish Airlines,15 hr 15 min,1 stop,137275
+2025-01-30,DAC,LHR,2025-03-10,China Eastern,32 hr 30 min,2 stops,96024
+2025-01-30,DAC,LHR,2025-03-10,Oman Air,32 hr 20 min,1 stop,125044
+2025-01-30,DAC,LHR,2025-03-10,Emirates,16 hr 5 min,1 stop,127414
+2025-01-30,DAC,LHR,2025-03-10,Qatar Airways,15 hr 40 min,1 stop,127643
+2025-01-30,DAC,LHR,2025-03-10,Turkish Airlines,15 hr 5 min,1 stop,137275
+2025-01-30,DAC,LHR,2025-03-11,China Eastern,32 hr 30 min,2 stops,102239
+2025-01-30,DAC,LHR,2025-03-11,Qatar Airways,15 hr 40 min,1 stop,121227
+2025-01-30,DAC,LHR,2025-03-11,Emirates,18 hr 25 min,1 stop,123998
+2025-01-30,DAC,LHR,2025-03-11,Turkish Airlines,15 hr 15 min,1 stop,137210
+2025-01-30,DAC,LHR,2025-03-12,China Eastern,32 hr 30 min,2 stops,96024
+2025-01-30,DAC,LHR,2025-03-12,Qatar Airways,15 hr 40 min,1 stop,123027
+2025-01-30,DAC,LHR,2025-03-12,Singapore Airlines,21 hr 40 min,1 stop,130640
+2025-01-30,DAC,LHR,2025-03-12,Turkish Airlines,15 hr 10 min,1 stop,131092
+2025-01-30,DAC,LHR,2025-03-12,Emirates,14 hr 25 min,1 stop,136893
+2025-01-30,DAC,LHR,2025-03-13,Oman Air,32 hr 20 min,1 stop,119948
+2025-01-30,DAC,LHR,2025-03-13,Emirates,14 hr 25 min,1 stop,123998
+2025-01-30,DAC,LHR,2025-03-13,Turkish Airlines,15 hr 15 min,1 stop,124013
+2025-01-30,DAC,LHR,2025-03-13,Singapore Airlines,21 hr 40 min,1 stop,130640
+2025-01-30,DAC,LHR,2025-03-13,Qatar Airways,15 hr 40 min,1 stop,131306
+2025-01-30,DAC,LHR,2025-03-14,Qatar Airways,15 hr 5 min,1 stop,114988
+2025-01-30,DAC,LHR,2025-03-14,Turkish Airlines,15 hr 15 min,1 stop,119094
+2025-01-30,DAC,LHR,2025-03-14,Emirates,14 hr 25 min,1 stop,123998
+2025-01-30,DAC,LHR,2025-03-15,Qatar Airways,14 hr 55 min,1 stop,115045
+2025-01-30,DAC,LHR,2025-03-15,Turkish Airlines,15 hr 15 min,1 stop,119159
+2025-01-30,DAC,LHR,2025-03-15,Emirates,14 hr 25 min,1 stop,124055
+2025-01-30,DAC,LHR,2025-03-16,China Eastern,32 hr 30 min,2 stops,96024
+2025-01-30,DAC,LHR,2025-03-16,Qatar Airways,14 hr 55 min,1 stop,115045
+2025-01-30,DAC,LHR,2025-03-16,Qatar Airways,14 hr 55 min,1 stop,121164
+2025-01-30,DAC,LHR,2025-03-16,Emirates,14 hr 25 min,1 stop,130174
+2025-01-30,DAC,LHR,2025-03-16,Turkish Airlines,15 hr 15 min,1 stop,131157
+2025-01-30,DAC,LHR,2025-03-17,China Eastern,32 hr 30 min,2 stops,96024
+2025-01-30,DAC,LHR,2025-03-17,Qatar Airways,14 hr 55 min,1 stop,114206
+2025-01-30,DAC,LHR,2025-03-17,Oman Air,32 hr 20 min,1 stop,120005
+2025-01-30,DAC,LHR,2025-03-17,Turkish Airlines,15 hr 5 min,1 stop,131157
+2025-01-30,DAC,LHR,2025-03-17,Emirates,14 hr 25 min,1 stop,143012
+2025-01-30,DAC,LHR,2025-03-18,China Eastern,32 hr 30 min,2 stops,96024
+2025-01-30,DAC,LHR,2025-03-18,Qatar Airways,14 hr 55 min,1 stop,114206
+2025-01-30,DAC,LHR,2025-03-18,Gulf Air,16 hr 50 min,1 stop,129742
+2025-01-30,DAC,LHR,2025-03-18,Turkish Airlines,15 hr 15 min,1 stop,131157
+2025-01-30,DAC,LHR,2025-03-18,Emirates,14 hr 25 min,1 stop,143012
+2025-01-30,DAC,LHR,2025-03-19,China Eastern,32 hr 30 min,2 stops,96077
+2025-01-30,DAC,LHR,2025-03-19,Qatar Airways,14 hr 55 min,1 stop,114518
+2025-01-30,DAC,LHR,2025-03-19,Turkish Airlines,15 hr 10 min,1 stop,131157
+2025-01-30,DAC,LHR,2025-03-19,Emirates,14 hr 25 min,1 stop,145771
+2025-01-30,DAC,LHR,2025-03-20,Qatar Airways,14 hr 55 min,1 stop,120517
+2025-01-30,DAC,LHR,2025-03-20,Gulf Air,26 hr 55 min,1 stop,122789
+2025-01-30,DAC,LHR,2025-03-20,Turkish Airlines,15 hr 15 min,1 stop,129357
+2025-01-30,DAC,LHR,2025-03-21,Gulf Air,16 hr 50 min,1 stop,132987
+2025-01-30,DAC,LHR,2025-03-21,Saudia,16 hr 25 min,1 stop,137619
+2025-01-30,DAC,LHR,2025-03-21,Qatar Airways,14 hr 55 min,1 stop,141081
+2025-01-30,DAC,LHR,2025-03-21,Emirates,14 hr 25 min,1 stop,145171
+2025-01-30,DAC,LHR,2025-03-22,Gulf Air,26 hr 55 min,1 stop,122789
+2025-01-30,DAC,LHR,2025-03-22,Oman Air,32 hr 20 min,1 stop,126604
+2025-01-30,DAC,LHR,2025-03-22,Qatar Airways,14 hr 55 min,1 stop,131363
+2025-01-30,DAC,LHR,2025-03-22,Saudia,16 hr 25 min,1 stop,137619
+2025-01-30,DAC,LHR,2025-03-22,Emirates,14 hr 25 min,1 stop,145171
+2025-01-30,DAC,LHR,2025-03-23,China Eastern,32 hr 30 min,2 stops,96024
+2025-01-30,DAC,LHR,2025-03-23,Qatar Airways,15 hr 5 min,1 stop,121164
+2025-01-30,DAC,LHR,2025-03-23,Gulf Air,25 hr,1 stop,127828
+2025-01-30,DAC,LHR,2025-03-23,Turkish Airlines,15 hr 15 min,1 stop,131157
+2025-01-30,DAC,LHR,2025-03-23,Emirates,14 hr 25 min,1 stop,148051
+2025-01-30,DAC,LHR,2025-03-24,Oman Air,32 hr 20 min,1 stop,119948
+2025-01-30,DAC,LHR,2025-03-24,Qatar Airways,14 hr 55 min,1 stop,129443
+2025-01-30,DAC,LHR,2025-03-24,Turkish Airlines,15 hr 5 min,1 stop,131157
+2025-01-30,DAC,LHR,2025-03-24,Emirates,14 hr 25 min,1 stop,145171
+2025-01-30,DAC,LHR,2025-03-25,Turkish Airlines,15 hr 15 min,1 stop,119159
+2025-01-30,DAC,LHR,2025-03-25,Emirates,14 hr 25 min,1 stop,126019
+2025-01-30,DAC,LHR,2025-03-25,Gulf Air,16 hr 50 min,1 stop,127828
+2025-01-30,DAC,LHR,2025-03-25,Qatar Airways,14 hr 55 min,1 stop,130283
+2025-01-30,DAC,LHR,2025-03-26,China Eastern,32 hr 30 min,2 stops,96024
+2025-01-30,DAC,LHR,2025-03-26,Turkish Airlines,15 hr 10 min,1 stop,119159
+2025-01-30,DAC,LHR,2025-03-26,Qatar Airways,14 hr 55 min,1 stop,122796
+2025-01-30,DAC,LHR,2025-03-26,Emirates,14 hr 25 min,1 stop,128898
+2025-01-30,DAC,LHR,2025-03-27,China Eastern,32 hr 30 min,2 stops,96024
+2025-01-30,DAC,LHR,2025-03-27,Turkish Airlines,15 hr 15 min,1 stop,117359
+2025-01-30,DAC,LHR,2025-03-27,Oman Air,32 hr 20 min,1 stop,120005
+2025-01-30,DAC,LHR,2025-03-27,Qatar Airways,14 hr 55 min,1 stop,121596
+2025-01-30,DAC,LHR,2025-03-27,Emirates,16 hr 5 min,1 stop,126019
+2025-01-30,DAC,LHR,2025-03-28,Turkish Airlines,15 hr 15 min,1 stop,119393
+2025-01-30,DAC,LHR,2025-03-28,Qatar Airways,14 hr 55 min,1 stop,130583
+2025-01-30,DAC,LHR,2025-03-28,Emirates,14 hr 25 min,1 stop,136517
+2025-01-30,DAC,LHR,2025-03-29,Turkish Airlines,15 hr 15 min,1 stop,119393
+2025-01-30,DAC,LHR,2025-03-29,Emirates,14 hr 25 min,1 stop,149115
+2025-01-30,DAC,LHR,2025-03-29,Qatar Airways,14 hr 55 min,1 stop,153979
+2025-01-30,DAC,LHR,2025-03-30,Turkish Airlines,15 hr 10 min,1 stop,119393
+2025-01-30,DAC,LHR,2025-03-30,Qatar Airways,15 hr 5 min,1 stop,143733
+2025-01-30,DAC,LHR,2025-03-30,Gulf Air,15 hr 55 min,1 stop,155838
+2025-01-30,DAC,LHR,2025-03-30,Emirates,13 hr 25 min,1 stop,173635
+2025-01-30,DAC,LHR,2025-03-31,Turkish Airlines,15 hr 10 min,1 stop,119393
+2025-01-30,DAC,LHR,2025-03-31,Qatar Airways,14 hr 30 min,1 stop,165737
+2025-01-30,DAC,LHR,2025-03-31,Saudia,16 hr,1 stop,172113
+2025-01-30,DAC,LHR,2025-04-01,Turkish Airlines,14 hr 30 min,1 stop,122392
+2025-01-30,DAC,LHR,2025-04-01,Gulf Air,15 hr 55 min,1 stop,176600
+2025-01-30,DAC,LHR,2025-04-01,Qatar Airways,14 hr 30 min,1 stop,192853
+2025-01-30,DAC,LHR,2025-04-02,China Eastern,33 hr 40 min,2 stops,127594
+2025-01-30,DAC,LHR,2025-04-02,Turkish Airlines,14 hr 25 min,1 stop,153707
+2025-01-30,DAC,LHR,2025-04-02,Gulf Air,26 hr,1 stop,166156
+2025-01-30,DAC,LHR,2025-04-02,Qatar Airways,14 hr 30 min,1 stop,179607
+2025-01-30,DAC,LHR,2025-04-02,Emirates,13 hr 25 min,1 stop,200990
+2025-01-30,DAC,LHR,2025-04-03,Oman Air,32 hr 5 min,1 stop,153299
+2025-01-30,DAC,LHR,2025-04-03,Qatar Airways,14 hr 30 min,1 stop,167849
+2025-01-30,DAC,LHR,2025-04-03,Turkish Airlines,14 hr 30 min,1 stop,175249
+2025-01-30,DAC,LHR,2025-04-04,Malaysia Airlines,19 hr 30 min,1 stop,167753
+2025-01-30,DAC,LHR,2025-04-04,Qatar Airways,14 hr 55 min,1 stop,167849
+2025-01-30,DAC,LHR,2025-04-04,Turkish Airlines,14 hr 45 min,1 stop,177049
+2025-01-30,DAC,LHR,2025-04-04,Saudia,16 hr,1 stop,178952
+2025-01-30,DAC,LHR,2025-04-04,Emirates,13 hr 25 min,1 stop,183353
+2025-01-30,DAC,LHR,2025-04-05,Turkish Airlines,14 hr 30 min,1 stop,153773
+2025-01-30,DAC,LHR,2025-04-05,Emirates,13 hr 25 min,1 stop,156118
+2025-01-30,DAC,LHR,2025-04-05,Qatar Airways,14 hr 30 min,1 stop,158298
+2025-01-30,DAC,LHR,2025-04-06,Singapore Airlines,20 hr 50 min,1 stop,151753
+2025-01-30,DAC,LHR,2025-04-06,Qatar Airways,14 hr 30 min,1 stop,153139
+2025-01-30,DAC,LHR,2025-04-06,Turkish Airlines,15 hr 10 min,1 stop,153773
+2025-01-30,DAC,LHR,2025-04-06,Saudia,15 hr 25 min,1 stop,157236
+2025-01-30,DAC,LHR,2025-04-06,Emirates,16 hr 35 min,1 stop,158997
+2025-01-30,DAC,LHR,2025-04-07,Saudia,15 hr 25 min,1 stop,137861
+2025-01-30,DAC,LHR,2025-04-07,Ethiopian,18 hr 55 min,1 stop,140493
+2025-01-30,DAC,LHR,2025-04-07,Qatar Airways,14 hr 30 min,1 stop,147860
+2025-01-30,DAC,LHR,2025-04-07,Singapore Airlines,20 hr 50 min,1 stop,151753
+2025-01-30,DAC,LHR,2025-04-07,Emirates,13 hr 25 min,1 stop,165236
+2025-01-30,DAC,LHR,2025-04-08,Qatar Airways,14 hr 30 min,1 stop,135876
+2025-01-30,DAC,LHR,2025-04-08,Singapore Airlines,20 hr 50 min,1 stop,151753
+2025-01-30,DAC,LHR,2025-04-08,Saudia,15 hr 25 min,1 stop,157236
+2025-01-30,DAC,LHR,2025-04-08,Emirates,13 hr 25 min,1 stop,165236
+2025-01-30,DAC,LHR,2025-04-09,Singapore Airlines,20 hr 50 min,1 stop,126677
+2025-01-30,DAC,LHR,2025-04-09,Qatar Airways,14 hr 30 min,1 stop,133462
+2025-01-30,DAC,LHR,2025-04-09,Saudia,15 hr 25 min,1 stop,137919
+2025-01-30,DAC,LHR,2025-04-10,Qatar Airways,14 hr 30 min,1 stop,123518
+2025-01-30,DAC,LHR,2025-04-10,Singapore Airlines,20 hr 50 min,1 stop,131476
+2025-01-30,DAC,LHR,2025-04-10,Saudia,15 hr 25 min,1 stop,137919
+2025-01-30,DAC,LHR,2025-04-11,Qatar Airways,14 hr 30 min,1 stop,129685
+2025-01-30,DAC,LHR,2025-04-11,Singapore Airlines,20 hr 50 min,1 stop,131476
+2025-01-30,DAC,LHR,2025-04-11,Saudia,16 hr,1 stop,137919
+2025-01-30,DAC,LHR,2025-04-11,Turkish Airlines,14 hr 45 min,1 stop,153773
+2025-01-30,DAC,LHR,2025-04-11,Emirates,13 hr 25 min,1 stop,154918
+2025-01-30,DAC,LHR,2025-04-12,Singapore Airlines,20 hr 50 min,1 stop,126677
+2025-01-30,DAC,LHR,2025-04-12,Qatar Airways,14 hr 30 min,1 stop,129743
+2025-01-30,DAC,LHR,2025-04-12,Saudia,16 hr,1 stop,137919
+2025-01-30,DAC,LHR,2025-04-13,Singapore Airlines,20 hr 50 min,1 stop,126677
+2025-01-30,DAC,LHR,2025-04-13,Qatar Airways,14 hr 30 min,1 stop,135022
+2025-01-30,DAC,LHR,2025-04-13,Saudia,16 hr,1 stop,137919
+2025-01-30,DAC,LHR,2025-04-13,Turkish Airlines,15 hr 10 min,1 stop,153773
+2025-01-30,DAC,LHR,2025-04-13,Emirates,13 hr 25 min,1 stop,157797
+2025-01-30,DAC,LHR,2025-04-14,Oman Air,32 hr 5 min,1 stop,125286
+2025-01-30,DAC,LHR,2025-04-14,Qatar Airways,14 hr 30 min,1 stop,129743
+2025-01-30,DAC,LHR,2025-04-14,Saudia,16 hr,1 stop,134440
+2025-01-30,DAC,LHR,2025-04-14,Ethiopian,18 hr 55 min,1 stop,135934
+2025-01-30,DAC,LHR,2025-04-14,Emirates,13 hr 25 min,1 stop,167396
+2025-01-30,DAC,LHR,2025-04-15,Qatar Airways,16 hr 5 min,1 stop,129685
+2025-01-30,DAC,LHR,2025-04-15,Saudia,16 hr,1 stop,134440
+2025-01-30,DAC,LHR,2025-04-15,Oman Air,32 hr 5 min,1 stop,137585
+2025-01-30,DAC,LHR,2025-04-15,Turkish Airlines,15 hr 10 min,1 stop,153773
+2025-01-30,DAC,LHR,2025-04-15,Emirates,15 hr 45 min,1 stop,167396
+2025-01-30,DAC,LHR,2025-04-16,Qatar Airways,14 hr 30 min,1 stop,143843
+2025-01-30,DAC,LHR,2025-04-16,Turkish Airlines,14 hr 25 min,1 stop,145014
+2025-01-30,DAC,LHR,2025-04-16,Saudia,15 hr 25 min,1 stop,162995
+2025-01-30,DAC,LHR,2025-04-17,Qatar Airways,15 hr 25 min,1 stop,140123
+2025-01-30,DAC,LHR,2025-04-17,Turkish Airlines,14 hr 30 min,1 stop,143215
+2025-01-30,DAC,LHR,2025-04-17,Saudia,15 hr 25 min,1 stop,162995
+2025-01-30,DAC,LHR,2025-04-18,Turkish Airlines,14 hr 45 min,1 stop,153773
+2025-01-30,DAC,LHR,2025-04-18,Saudia,16 hr,1 stop,159515
+2025-01-30,DAC,LHR,2025-04-18,Qatar Airways,14 hr 30 min,1 stop,165737
+2025-01-30,DAC,LHR,2025-04-19,Saudia,16 hr,1 stop,162937
+2025-01-30,DAC,LHR,2025-04-19,Turkish Airlines,14 hr 30 min,1 stop,164331
+2025-01-30,DAC,LHR,2025-04-19,Qatar Airways,14 hr 30 min,1 stop,180974
+2025-01-30,DAC,LHR,2025-04-20,Ethiopian,36 hr 20 min,1 stop,151570
+2025-01-30,DAC,LHR,2025-04-20,Turkish Airlines,15 hr 10 min,1 stop,177049
+2025-01-30,DAC,LHR,2025-04-20,Gulf Air,15 hr 55 min,1 stop,200236
+2025-01-30,DAC,LHR,2025-04-21,Ethiopian,18 hr 55 min,1 stop,148581
+2025-01-30,DAC,LHR,2025-04-21,Turkish Airlines,15 hr 10 min,1 stop,164331
+2025-01-30,DAC,LHR,2025-04-21,Qatar Airways,24 hr 30 min,1 stop,165737
+2025-01-30,DAC,LHR,2025-04-21,Saudia,16 hr,1 stop,172113
+2025-01-30,DAC,LHR,2025-04-22,Turkish Airlines,15 hr 10 min,1 stop,137509
+2025-01-30,DAC,LHR,2025-04-22,Qatar Airways,16 hr 5 min,1 stop,152059
+2025-01-30,DAC,LHR,2025-04-22,Saudia,16 hr,1 stop,159515
+2025-01-30,DAC,LHR,2025-04-23,Turkish Airlines,14 hr 25 min,1 stop,131391
+2025-01-30,DAC,LHR,2025-04-23,Qatar Airways,16 hr 5 min,1 stop,143901
+2025-01-30,DAC,LHR,2025-04-23,Saudia,16 hr,1 stop,153876
+2025-01-30,DAC,LHR,2025-04-24,Turkish Airlines,14 hr 30 min,1 stop,129657
+2025-01-30,DAC,LHR,2025-04-24,Qatar Airways,14 hr 30 min,1 stop,129743
+2025-01-30,DAC,LHR,2025-04-24,Saudia,15 hr 25 min,1 stop,150397
+2025-01-30,DAC,LHR,2025-04-24,Emirates,16 hr 35 min,1 stop,154918
+2025-01-30,DAC,LHR,2025-04-25,Qatar Airways,14 hr 30 min,1 stop,129743
+2025-01-30,DAC,LHR,2025-04-25,Turkish Airlines,14 hr 45 min,1 stop,131457
+2025-01-30,DAC,LHR,2025-04-25,Saudia,16 hr,1 stop,150397
+2025-01-30,DAC,LHR,2025-04-25,Emirates,15 hr 45 min,1 stop,154918
+2025-01-30,DAC,LHR,2025-04-26,Qatar Airways,16 hr 5 min,1 stop,111448
+2025-01-30,DAC,LHR,2025-04-26,Turkish Airlines,14 hr 30 min,1 stop,119459
+2025-01-30,DAC,LHR,2025-04-26,Oman Air,32 hr 5 min,1 stop,131823
+2025-01-30,DAC,LHR,2025-04-26,Saudia,16 hr,1 stop,150397
+2025-01-30,DAC,LHR,2025-04-27,Turkish Airlines,15 hr 10 min,1 stop,119393
+2025-01-30,DAC,LHR,2025-04-27,Qatar Airways,16 hr 5 min,1 stop,121224
+2025-01-30,DAC,LHR,2025-04-27,Emirates,16 hr 35 min,1 stop,148679
+2025-01-30,DAC,LHR,2025-04-28,Qatar Airways,14 hr 30 min,1 stop,129743
+2025-01-30,DAC,LHR,2025-04-28,Turkish Airlines,15 hr 10 min,1 stop,137575
+2025-01-30,DAC,LHR,2025-04-28,Emirates,13 hr 25 min,1 stop,145799
+2025-01-30,DAC,LHR,2025-04-29,Qatar Airways,14 hr 30 min,1 stop,117639
+2025-01-30,DAC,LHR,2025-04-29,Oman Air,32 hr 5 min,1 stop,121810
+2025-01-30,DAC,LHR,2025-04-29,Emirates,17 hr 45 min,1 stop,136681
+2025-01-30,DAC,LHR,2025-04-29,Gulf Air,24 hr 20 min,1 stop,143726
+2025-01-30,DAC,LHR,2025-04-29,Turkish Airlines,14 hr 30 min,1 stop,145014
+2025-01-30,DAC,LHR,2025-04-30,Qatar Airways,14 hr 30 min,1 stop,121166
+2025-01-30,DAC,LHR,2025-04-30,Emirates,19 hr 30 min,1 stop,132722
+2025-01-30,DAC,LHR,2025-04-30,Turkish Airlines,14 hr 25 min,1 stop,137575
+2025-01-30,DAC,DXB,2025-02-01,Emirates,5 hr 25 min,Nonstop,127561
+2025-01-30,DAC,DXB,2025-02-01,Emirates,5 hr 25 min,Nonstop,127561
+2025-01-30,DAC,DXB,2025-02-01,Jazeera,11 hr 30 min,1 stop,132098
+2025-01-30,DAC,DXB,2025-02-01,Emirates,5 hr 30 min,Nonstop,143544
+2025-01-30,DAC,DXB,2025-02-02,Biman,5 hr 55 min,Nonstop,114068
+2025-01-30,DAC,DXB,2025-02-02,Emirates,5 hr 25 min,Nonstop,122927
+2025-01-30,DAC,DXB,2025-02-03,Emirates,5 hr 25 min,Nonstop,115323
+2025-01-30,DAC,DXB,2025-02-03,Jazeera,11 hr 30 min,1 stop,125654
+2025-01-30,DAC,DXB,2025-02-03,Emirates,5 hr 25 min,Nonstop,127561
+2025-01-30,DAC,DXB,2025-02-03,Emirates,5 hr 30 min,Nonstop,155397
+2025-01-30,DAC,DXB,2025-02-04,Emirates,5 hr 25 min,Nonstop,122927
+2025-01-30,DAC,DXB,2025-02-05,Emirates,5 hr 25 min,Nonstop,122927
+2025-01-30,DAC,DXB,2025-02-05,Jazeera,11 hr 30 min,1 stop,131696
+2025-01-30,DAC,DXB,2025-02-06,Biman,5 hr 55 min,Nonstop,52648
+2025-01-30,DAC,DXB,2025-02-06,Biman,8 hr,1 stop,114068
+2025-01-30,DAC,DXB,2025-02-06,Emirates,5 hr 25 min,Nonstop,150763
+2025-01-30,DAC,DXB,2025-02-07,Biman,8 hr,1 stop,113633
+2025-01-30,DAC,DXB,2025-02-07,Emirates,5 hr 25 min,Nonstop,122927
+2025-01-30,DAC,DXB,2025-02-08,Oman Air,7 hr 30 min,1 stop,94284
+2025-01-30,DAC,DXB,2025-02-08,Emirates,5 hr 25 min,Nonstop,122927
+2025-01-30,DAC,DXB,2025-02-09,Biman,5 hr 55 min,Nonstop,55048
+2025-01-30,DAC,DXB,2025-02-09,flydubai,5 hr 50 min,Nonstop,119280
+2025-01-30,DAC,DXB,2025-02-09,Emirates,5 hr 25 min,Nonstop,122927
+2025-01-30,DAC,DXB,2025-02-10,Gulf Air,12 hr 55 min,1 stop,110784
+2025-01-30,DAC,DXB,2025-02-10,Emirates,5 hr 25 min,Nonstop,150763
+2025-01-30,DAC,DXB,2025-02-11,Biman,5 hr 55 min,Nonstop,55759
+2025-01-30,DAC,DXB,2025-02-11,Biman,8 hr,1 stop,55759
+2025-01-30,DAC,DXB,2025-02-11,Emirates,5 hr 25 min,Nonstop,122927
+2025-01-30,DAC,DXB,2025-02-12,Biman,5 hr 55 min,Nonstop,52648
+2025-01-30,DAC,DXB,2025-02-12,Gulf Air,10 hr 35 min,1 stop,110784
+2025-01-30,DAC,DXB,2025-02-12,Emirates,5 hr 25 min,Nonstop,122927
+2025-01-30,DAC,DXB,2025-02-13,Biman,8 hr,1 stop,52648
+2025-01-30,DAC,DXB,2025-02-13,Jazeera,11 hr 30 min,1 stop,125253
+2025-01-30,DAC,DXB,2025-02-13,flydubai,5 hr 50 min,Nonstop,147081
+2025-01-30,DAC,DXB,2025-02-13,Emirates,5 hr 30 min,Nonstop,181098
+2025-01-30,DAC,DXB,2025-02-14,Biman,8 hr,1 stop,55048
+2025-01-30,DAC,DXB,2025-02-14,Jazeera,11 hr 30 min,1 stop,119417
+2025-01-30,DAC,DXB,2025-02-14,Saudia,13 hr 10 min,1 stop,144280
+2025-01-30,DAC,DXB,2025-02-14,Emirates,5 hr 25 min,Nonstop,181098
+2025-01-30,DAC,DXB,2025-02-15,Biman,8 hr,1 stop,55759
+2025-01-30,DAC,DXB,2025-02-15,Gulf Air,19 hr 55 min,1 stop,110784
+2025-01-30,DAC,DXB,2025-02-15,Jazeera,11 hr 30 min,1 stop,119417
+2025-01-30,DAC,DXB,2025-02-15,Emirates,5 hr 25 min,Nonstop,150763
+2025-01-30,DAC,DXB,2025-02-16,flydubai,5 hr 50 min,Nonstop,107320
+2025-01-30,DAC,DXB,2025-02-16,Emirates,5 hr 25 min,Nonstop,122927
+2025-01-30,DAC,DXB,2025-02-17,Biman,5 hr 50 min,Nonstop,56289
+2025-01-30,DAC,DXB,2025-02-17,flydubai,5 hr 50 min,Nonstop,108800
+2025-01-30,DAC,DXB,2025-02-17,Emirates,5 hr 30 min,Nonstop,150763
+2025-01-30,DAC,DXB,2025-02-18,Biman,8 hr,1 stop,55759
+2025-01-30,DAC,DXB,2025-02-18,Oman Air,7 hr 30 min,1 stop,103283
+2025-01-30,DAC,DXB,2025-02-18,Emirates,5 hr 25 min,Nonstop,122927
+2025-01-30,DAC,DXB,2025-02-19,Biman,5 hr 55 min,Nonstop,55759
+2025-01-30,DAC,DXB,2025-02-19,Jazeera,11 hr 30 min,1 stop,110663
+2025-01-30,DAC,DXB,2025-02-19,Gulf Air,12 hr 55 min,1 stop,110784
+2025-01-30,DAC,DXB,2025-02-19,flydubai,5 hr 50 min,Nonstop,147081
+2025-01-30,DAC,DXB,2025-02-19,Emirates,5 hr 25 min,Nonstop,150763
+2025-01-30,DAC,DXB,2025-02-20,Biman,8 hr,1 stop,55759
+2025-01-30,DAC,DXB,2025-02-20,Gulf Air,10 hr 35 min,1 stop,110784
+2025-01-30,DAC,DXB,2025-02-20,flydubai,5 hr 50 min,Nonstop,119280
+2025-01-30,DAC,DXB,2025-02-21,Biman,8 hr,1 stop,55759
+2025-01-30,DAC,DXB,2025-02-21,Jazeera,11 hr 30 min,1 stop,110480
+2025-01-30,DAC,DXB,2025-02-21,flydubai,5 hr 50 min,Nonstop,133122
+2025-01-30,DAC,DXB,2025-02-21,Emirates,5 hr 25 min,Nonstop,150763
+2025-01-30,DAC,DXB,2025-02-22,Biman,8 hr,1 stop,56338
+2025-01-30,DAC,DXB,2025-02-22,Oman Air,7 hr 30 min,1 stop,94284
+2025-01-30,DAC,DXB,2025-02-22,flydubai,5 hr 50 min,Nonstop,107320
+2025-01-30,DAC,DXB,2025-02-22,Gulf Air,10 hr 35 min,1 stop,110784
+2025-01-30,DAC,DXB,2025-02-22,Emirates,5 hr 25 min,Nonstop,122927
+2025-01-30,DAC,DXB,2025-02-23,Biman,5 hr 55 min,Nonstop,58738
+2025-01-30,DAC,DXB,2025-02-23,flydubai,5 hr 50 min,Nonstop,115903
+2025-01-30,DAC,DXB,2025-02-23,Emirates,5 hr 25 min,Nonstop,122927
+2025-01-30,DAC,DXB,2025-02-24,Biman,5 hr 55 min,Nonstop,58738
+2025-01-30,DAC,DXB,2025-02-24,Oman Air,7 hr 30 min,1 stop,103283
+2025-01-30,DAC,DXB,2025-02-24,Gulf Air,10 hr 35 min,1 stop,110784
+2025-01-30,DAC,DXB,2025-02-24,flydubai,5 hr 50 min,Nonstop,129147
+2025-01-30,DAC,DXB,2025-02-24,Emirates,5 hr 25 min,Nonstop,150763
+2025-01-30,DAC,DXB,2025-02-25,Biman,8 hr,1 stop,55759
+2025-01-30,DAC,DXB,2025-02-25,Oman Air,7 hr 30 min,1 stop,84063
+2025-01-30,DAC,DXB,2025-02-25,flydubai,5 hr 50 min,Nonstop,115903
+2025-01-30,DAC,DXB,2025-02-25,Emirates,5 hr 25 min,Nonstop,122927
+2025-01-30,DAC,DXB,2025-02-26,Biman,5 hr 55 min,Nonstop,55759
+2025-01-30,DAC,DXB,2025-02-26,flydubai,5 hr 50 min,Nonstop,101075
+2025-01-30,DAC,DXB,2025-02-26,Gulf Air,10 hr 35 min,1 stop,110784
+2025-01-30,DAC,DXB,2025-02-26,Emirates,5 hr 25 min,Nonstop,150763
+2025-01-30,DAC,DXB,2025-02-27,Biman,8 hr,1 stop,58738
+2025-01-30,DAC,DXB,2025-02-27,Oman Air,7 hr 30 min,1 stop,88166
+2025-01-30,DAC,DXB,2025-02-27,flydubai,5 hr 50 min,Nonstop,115489
+2025-01-30,DAC,DXB,2025-02-27,Emirates,5 hr 25 min,Nonstop,122927
+2025-01-30,DAC,DXB,2025-02-28,Biman,8 hr,1 stop,57745
+2025-01-30,DAC,DXB,2025-02-28,flydubai,5 hr 50 min,Nonstop,101126
+2025-01-30,DAC,DXB,2025-02-28,flydubai,5 hr 50 min,Nonstop,101126
+2025-01-30,DAC,DXB,2025-03-01,Biman,8 hr,1 stop,53359
+2025-01-30,DAC,DXB,2025-03-01,flydubai,5 hr 50 min,Nonstop,101126
+2025-01-30,DAC,DXB,2025-03-01,Gulf Air,10 hr 35 min,1 stop,110784
+2025-01-30,DAC,DXB,2025-03-02,Biman,5 hr 55 min,Nonstop,57745
+2025-01-30,DAC,DXB,2025-03-02,flydubai,5 hr 50 min,Nonstop,101184
+2025-01-30,DAC,DXB,2025-03-02,Emirates,5 hr 30 min,Nonstop,110689
+2025-01-30,DAC,DXB,2025-03-03,Biman,5 hr 55 min,Nonstop,58076
+2025-01-30,DAC,DXB,2025-03-03,Oman Air,7 hr 30 min,1 stop,88166
+2025-01-30,DAC,DXB,2025-03-03,flydubai,5 hr 50 min,Nonstop,101184
+2025-01-30,DAC,DXB,2025-03-03,Emirates,5 hr 30 min,Nonstop,110689
+2025-01-30,DAC,DXB,2025-03-04,Biman,8 hr,1 stop,53359
+2025-01-30,DAC,DXB,2025-03-04,Emirates,5 hr 25 min,Nonstop,81654
+2025-01-30,DAC,DXB,2025-03-04,Oman Air,7 hr 30 min,1 stop,84063
+2025-01-30,DAC,DXB,2025-03-04,flydubai,5 hr 50 min,Nonstop,101126
+2025-01-30,DAC,DXB,2025-03-05,Biman,5 hr 55 min,Nonstop,55759
+2025-01-30,DAC,DXB,2025-03-05,Emirates,5 hr 30 min,Nonstop,81654
+2025-01-30,DAC,DXB,2025-03-05,Emirates,5 hr 25 min,Nonstop,90053
+2025-01-30,DAC,DXB,2025-03-05,Emirates,5 hr 25 min,Nonstop,90053
+2025-01-30,DAC,DXB,2025-03-05,flydubai,5 hr 50 min,Nonstop,101032
+2025-01-30,DAC,DXB,2025-03-06,Biman,8 hr,1 stop,55759
+2025-01-30,DAC,DXB,2025-03-06,Oman Air,7 hr 30 min,1 stop,75785
+2025-01-30,DAC,DXB,2025-03-06,Emirates,5 hr 30 min,Nonstop,81654
+2025-01-30,DAC,DXB,2025-03-07,Biman,8 hr,1 stop,53359
+2025-01-30,DAC,DXB,2025-03-07,Emirates,5 hr 25 min,Nonstop,81654
+2025-01-30,DAC,DXB,2025-03-07,Emirates,5 hr 25 min,Nonstop,81654
+2025-01-30,DAC,DXB,2025-03-08,Biman,8 hr,1 stop,53359
+2025-01-30,DAC,DXB,2025-03-08,Emirates,5 hr 25 min,Nonstop,74935
+2025-01-30,DAC,DXB,2025-03-08,Emirates,5 hr 25 min,Nonstop,74935
+2025-01-30,DAC,DXB,2025-03-09,Biman,5 hr 55 min,Nonstop,55014
+2025-01-30,DAC,DXB,2025-03-09,Emirates,5 hr 25 min,Nonstop,69296
+2025-01-30,DAC,DXB,2025-03-09,Emirates,5 hr 25 min,Nonstop,74935
+2025-01-30,DAC,DXB,2025-03-10,Biman,5 hr 55 min,Nonstop,58076
+2025-01-30,DAC,DXB,2025-03-10,Emirates,5 hr 25 min,Nonstop,74935
+2025-01-30,DAC,DXB,2025-03-10,Oman Air,7 hr 30 min,1 stop,75785
+2025-01-30,DAC,DXB,2025-03-11,Biman,8 hr,1 stop,56338
+2025-01-30,DAC,DXB,2025-03-11,Emirates,5 hr 30 min,Nonstop,74935
+2025-01-30,DAC,DXB,2025-03-11,Emirates,5 hr 25 min,Nonstop,81654
+2025-01-30,DAC,DXB,2025-03-11,Oman Air,7 hr 30 min,1 stop,84063
+2025-01-30,DAC,DXB,2025-03-12,Biman,5 hr 55 min,Nonstop,55014
+2025-01-30,DAC,DXB,2025-03-12,Emirates,5 hr 25 min,Nonstop,81654
+2025-01-30,DAC,DXB,2025-03-12,Emirates,5 hr 30 min,Nonstop,81654
+2025-01-30,DAC,DXB,2025-03-12,Emirates,5 hr 25 min,Nonstop,90053
+2025-01-30,DAC,DXB,2025-03-12,flydubai,5 hr 50 min,Nonstop,101184
+2025-01-30,DAC,DXB,2025-03-13,Biman,8 hr,1 stop,56338
+2025-01-30,DAC,DXB,2025-03-13,Oman Air,7 hr 30 min,1 stop,73589
+2025-01-30,DAC,DXB,2025-03-13,Emirates,5 hr 25 min,Nonstop,74935
+2025-01-30,DAC,DXB,2025-03-13,Emirates,5 hr 25 min,Nonstop,74935
+2025-01-30,DAC,DXB,2025-03-13,Emirates,5 hr 30 min,Nonstop,74935
+2025-01-30,DAC,DXB,2025-03-14,Biman,8 hr,1 stop,56338
+2025-01-30,DAC,DXB,2025-03-14,Emirates,5 hr 30 min,Nonstop,67137
+2025-01-30,DAC,DXB,2025-03-14,Emirates,5 hr 25 min,Nonstop,69296
+2025-01-30,DAC,DXB,2025-03-14,Emirates,5 hr 25 min,Nonstop,69296
+2025-01-30,DAC,DXB,2025-03-15,Biman,8 hr,1 stop,56338
+2025-01-30,DAC,DXB,2025-03-15,Emirates,5 hr 25 min,Nonstop,67137
+2025-01-30,DAC,DXB,2025-03-15,Emirates,5 hr 25 min,Nonstop,67137
+2025-01-30,DAC,DXB,2025-03-15,Emirates,5 hr 30 min,Nonstop,67137
+2025-01-30,DAC,DXB,2025-03-16,Biman,5 hr 55 min,Nonstop,56338
+2025-01-30,DAC,DXB,2025-03-16,Emirates,5 hr 25 min,Nonstop,67137
+2025-01-30,DAC,DXB,2025-03-16,Emirates,5 hr 25 min,Nonstop,67137
+2025-01-30,DAC,DXB,2025-03-16,Emirates,5 hr 30 min,Nonstop,67137
+2025-01-30,DAC,DXB,2025-03-17,Biman,5 hr 55 min,Nonstop,56338
+2025-01-30,DAC,DXB,2025-03-17,Emirates,5 hr 25 min,Nonstop,67137
+2025-01-30,DAC,DXB,2025-03-17,Emirates,5 hr 25 min,Nonstop,67137
+2025-01-30,DAC,DXB,2025-03-17,Emirates,5 hr 30 min,Nonstop,69296
+2025-01-30,DAC,DXB,2025-03-18,Biman,8 hr,1 stop,58324
+2025-01-30,DAC,DXB,2025-03-18,Oman Air,7 hr 30 min,1 stop,84063
+2025-01-30,DAC,DXB,2025-03-18,Emirates,5 hr 30 min,Nonstop,91301
+2025-01-30,DAC,DXB,2025-03-19,Biman,5 hr 55 min,Nonstop,57278
+2025-01-30,DAC,DXB,2025-03-19,Qatar Airways,9 hr 30 min,1 stop,82523
+2025-01-30,DAC,DXB,2025-03-19,Emirates,5 hr 25 min,Nonstop,84994
+2025-01-30,DAC,DXB,2025-03-19,Emirates,5 hr 25 min,Nonstop,84994
+2025-01-30,DAC,DXB,2025-03-19,Emirates,5 hr 30 min,Nonstop,84994
+2025-01-30,DAC,DXB,2025-03-20,Biman,8 hr,1 stop,58986
+2025-01-30,DAC,DXB,2025-03-20,Oman Air,7 hr 30 min,1 stop,73589
+2025-01-30,DAC,DXB,2025-03-20,Emirates,5 hr 30 min,Nonstop,91712
+2025-01-30,DAC,DXB,2025-03-21,Biman,8 hr,1 stop,58986
+2025-01-30,DAC,DXB,2025-03-21,Gulf Air,9 hr 50 min,1 stop,84388
+2025-01-30,DAC,DXB,2025-03-21,Emirates,5 hr 30 min,Nonstop,91901
+2025-01-30,DAC,DXB,2025-03-22,Biman,8 hr,1 stop,60641
+2025-01-30,DAC,DXB,2025-03-22,Oman Air,7 hr 30 min,1 stop,75785
+2025-01-30,DAC,DXB,2025-03-22,Emirates,5 hr 30 min,Nonstop,91901
+2025-01-30,DAC,DXB,2025-03-23,Biman,5 hr 55 min,Nonstop,64614
+2025-01-30,DAC,DXB,2025-03-23,Emirates,5 hr 25 min,Nonstop,89313
+2025-01-30,DAC,DXB,2025-03-23,Emirates,5 hr 25 min,Nonstop,89313
+2025-01-30,DAC,DXB,2025-03-23,Emirates,5 hr 30 min,Nonstop,89313
+2025-01-30,DAC,DXB,2025-03-24,Biman,5 hr 55 min,Nonstop,57678
+2025-01-30,DAC,DXB,2025-03-24,Oman Air,7 hr 30 min,1 stop,76085
+2025-01-30,DAC,DXB,2025-03-24,Emirates,5 hr 30 min,Nonstop,86553
+2025-01-30,DAC,DXB,2025-03-25,Biman,8 hr,1 stop,73882
+2025-01-30,DAC,DXB,2025-03-25,Emirates,5 hr 25 min,Nonstop,81394
+2025-01-30,DAC,DXB,2025-03-25,Emirates,5 hr 30 min,Nonstop,81394
+2025-01-30,DAC,DXB,2025-03-25,Emirates,5 hr 25 min,Nonstop,83674
+2025-01-30,DAC,DXB,2025-03-26,Biman,5 hr 55 min,Nonstop,57442
+2025-01-30,DAC,DXB,2025-03-26,Emirates,5 hr 25 min,Nonstop,81558
+2025-01-30,DAC,DXB,2025-03-26,Emirates,5 hr 30 min,Nonstop,81558
+2025-01-30,DAC,DXB,2025-03-26,Emirates,5 hr 25 min,Nonstop,83838
+2025-01-30,DAC,DXB,2025-03-27,Biman,8 hr,1 stop,55007
+2025-01-30,DAC,DXB,2025-03-27,Oman Air,7 hr 30 min,1 stop,73753
+2025-01-30,DAC,DXB,2025-03-27,Emirates,5 hr 30 min,Nonstop,78679
+2025-01-30,DAC,DXB,2025-03-28,Biman,8 hr,1 stop,57842
+2025-01-30,DAC,DXB,2025-03-28,Emirates,5 hr 25 min,Nonstop,81558
+2025-01-30,DAC,DXB,2025-03-28,Emirates,5 hr 25 min,Nonstop,81558
+2025-01-30,DAC,DXB,2025-03-28,Emirates,5 hr 30 min,Nonstop,81558
+2025-01-30,DAC,DXB,2025-03-28,Gulf Air,9 hr 40 min,1 stop,84552
+2025-01-30,DAC,DXB,2025-03-29,Biman,8 hr,1 stop,55442
+2025-01-30,DAC,DXB,2025-03-29,Oman Air,7 hr 30 min,1 stop,73753
+2025-01-30,DAC,DXB,2025-03-29,Emirates,5 hr 30 min,Nonstop,81558
+2025-01-30,DAC,DXB,2025-03-30,Biman,5 hr,Nonstop,57842
+2025-01-30,DAC,DXB,2025-03-30,Emirates,5 hr 25 min,Nonstop,81558
+2025-01-30,DAC,DXB,2025-03-30,Emirates,5 hr,Nonstop,81558
+2025-01-30,DAC,DXB,2025-03-30,Emirates,5 hr,Nonstop,81558
+2025-01-30,DAC,DXB,2025-03-31,Biman,5 hr,Nonstop,60241
+2025-01-30,DAC,DXB,2025-03-31,Oman Air,7 hr 20 min,1 stop,73753
+2025-01-30,DAC,DXB,2025-03-31,Emirates,5 hr,Nonstop,81558
+2025-01-30,DAC,DXB,2025-04-01,Biman,6 hr 50 min,1 stop,59806
+2025-01-30,DAC,DXB,2025-04-01,Oman Air,7 hr 20 min,1 stop,73753
+2025-01-30,DAC,DXB,2025-04-01,Emirates,4 hr 50 min,Nonstop,81558
+2025-01-30,DAC,DXB,2025-04-02,Biman,5 hr,Nonstop,62241
+2025-01-30,DAC,DXB,2025-04-02,Emirates,4 hr 50 min,Nonstop,81558
+2025-01-30,DAC,DXB,2025-04-02,Emirates,5 hr,Nonstop,83838
+2025-01-30,DAC,DXB,2025-04-02,Emirates,5 hr,Nonstop,83838
+2025-01-30,DAC,DXB,2025-04-03,Biman,6 hr 50 min,1 stop,57407
+2025-01-30,DAC,DXB,2025-04-03,Emirates,5 hr,Nonstop,78679
+2025-01-30,DAC,DXB,2025-04-03,Oman Air,7 hr 20 min,1 stop,79908
+2025-01-30,DAC,DXB,2025-04-03,Emirates,4 hr 50 min,Nonstop,80958
+2025-01-30,DAC,DXB,2025-04-03,Emirates,5 hr,Nonstop,80958
+2025-01-30,DAC,DXB,2025-04-04,Biman,6 hr 55 min,1 stop,59806
+2025-01-30,DAC,DXB,2025-04-04,Emirates,4 hr 50 min,Nonstop,93436
+2025-01-30,DAC,DXB,2025-04-04,Emirates,5 hr,Nonstop,93436
+2025-01-30,DAC,DXB,2025-04-04,Emirates,5 hr,Nonstop,93436
+2025-01-30,DAC,DXB,2025-04-04,flydubai,5 hr 35 min,Nonstop,101278
+2025-01-30,DAC,DXB,2025-04-05,Biman,6 hr 50 min,1 stop,59806
+2025-01-30,DAC,DXB,2025-04-05,Oman Air,7 hr 20 min,1 stop,73753
+2025-01-30,DAC,DXB,2025-04-05,Emirates,5 hr,Nonstop,89477
+2025-01-30,DAC,DXB,2025-04-06,Biman,5 hr,Nonstop,60241
+2025-01-30,DAC,DXB,2025-04-06,Emirates,5 hr,Nonstop,86717
+2025-01-30,DAC,DXB,2025-04-06,Emirates,4 hr 50 min,Nonstop,93436
+2025-01-30,DAC,DXB,2025-04-06,Emirates,5 hr,Nonstop,93436
+2025-01-30,DAC,DXB,2025-04-06,flydubai,5 hr 35 min,Nonstop,101220
+2025-01-30,DAC,DXB,2025-04-07,Biman,5 hr,Nonstop,61304
+2025-01-30,DAC,DXB,2025-04-07,Oman Air,7 hr 20 min,1 stop,73753
+2025-01-30,DAC,DXB,2025-04-07,Emirates,5 hr,Nonstop,82780
+2025-01-30,DAC,DXB,2025-04-08,Biman,6 hr 50 min,1 stop,57407
+2025-01-30,DAC,DXB,2025-04-08,Oman Air,7 hr 20 min,1 stop,75949
+2025-01-30,DAC,DXB,2025-04-08,Emirates,5 hr,Nonstop,96316
+2025-01-30,DAC,DXB,2025-04-09,Biman,5 hr,Nonstop,63310
+2025-01-30,DAC,DXB,2025-04-09,Emirates,5 hr,Nonstop,82780
+2025-01-30,DAC,DXB,2025-04-09,Gulf Air,8 hr,1 stop,91751
+2025-01-30,DAC,DXB,2025-04-10,Biman,6 hr 50 min,1 stop,59806
+2025-01-30,DAC,DXB,2025-04-10,Oman Air,7 hr 20 min,1 stop,75949
+2025-01-30,DAC,DXB,2025-04-10,Emirates,5 hr,Nonstop,101955
+2025-01-30,DAC,DXB,2025-04-11,Biman,6 hr 55 min,1 stop,59806
+2025-01-30,DAC,DXB,2025-04-11,Emirates,5 hr,Nonstop,93436
+2025-01-30,DAC,DXB,2025-04-11,Gulf Air,9 hr 30 min,1 stop,96430
+2025-01-30,DAC,DXB,2025-04-11,flydubai,5 hr 35 min,Nonstop,101359
+2025-01-30,DAC,DXB,2025-04-12,Biman,6 hr 50 min,1 stop,59806
+2025-01-30,DAC,DXB,2025-04-12,Oman Air,7 hr 20 min,1 stop,75949
+2025-01-30,DAC,DXB,2025-04-12,Emirates,5 hr,Nonstop,96316
+2025-01-30,DAC,DXB,2025-04-13,Biman,5 hr,Nonstop,63241
+2025-01-30,DAC,DXB,2025-04-13,Emirates,5 hr,Nonstop,86717
+2025-01-30,DAC,DXB,2025-04-13,Emirates,5 hr,Nonstop,86717
+2025-01-30,DAC,DXB,2025-04-13,Emirates,4 hr 50 min,Nonstop,93436
+2025-01-30,DAC,DXB,2025-04-13,flydubai,5 hr 35 min,Nonstop,101359
+2025-01-30,DAC,DXB,2025-04-14,Biman,5 hr,Nonstop,61304
+2025-01-30,DAC,DXB,2025-04-14,Emirates,4 hr 50 min,Nonstop,67903
+2025-01-30,DAC,DXB,2025-04-14,Emirates,5 hr,Nonstop,67903
+2025-01-30,DAC,DXB,2025-04-14,Emirates,5 hr,Nonstop,67903
+2025-01-30,DAC,DXB,2025-04-14,Oman Air,7 hr 20 min,1 stop,73753
+2025-01-30,DAC,DXB,2025-04-15,Biman,6 hr 50 min,1 stop,57407
+2025-01-30,DAC,DXB,2025-04-15,Oman Air,7 hr 20 min,1 stop,73753
+2025-01-30,DAC,DXB,2025-04-15,Emirates,4 hr 50 min,Nonstop,81558
+2025-01-30,DAC,DXB,2025-04-16,Biman,5 hr,Nonstop,61304
+2025-01-30,DAC,DXB,2025-04-16,Emirates,5 hr,Nonstop,67903
+2025-01-30,DAC,DXB,2025-04-16,Emirates,5 hr,Nonstop,67903
+2025-01-30,DAC,DXB,2025-04-17,Biman,6 hr 50 min,1 stop,57407
+2025-01-30,DAC,DXB,2025-04-17,Oman Air,7 hr 20 min,1 stop,73753
+2025-01-30,DAC,DXB,2025-04-17,Emirates,4 hr 50 min,Nonstop,78679
+2025-01-30,DAC,DXB,2025-04-17,Emirates,5 hr,Nonstop,78679
+2025-01-30,DAC,DXB,2025-04-17,Emirates,5 hr,Nonstop,78679
+2025-01-30,DAC,DXB,2025-04-18,Biman,6 hr 55 min,1 stop,59806
+2025-01-30,DAC,DXB,2025-04-18,Emirates,4 hr 50 min,Nonstop,81558
+2025-01-30,DAC,DXB,2025-04-18,Emirates,5 hr,Nonstop,81558
+2025-01-30,DAC,DXB,2025-04-18,Emirates,5 hr,Nonstop,81558
+2025-01-30,DAC,DXB,2025-04-19,Biman,6 hr 50 min,1 stop,57407
+2025-01-30,DAC,DXB,2025-04-19,Oman Air,7 hr 20 min,1 stop,73753
+2025-01-30,DAC,DXB,2025-04-19,Emirates,4 hr 50 min,Nonstop,81558
+2025-01-30,DAC,DXB,2025-04-20,Biman,5 hr,Nonstop,60241
+2025-01-30,DAC,DXB,2025-04-20,Emirates,4 hr 50 min,Nonstop,81558
+2025-01-30,DAC,DXB,2025-04-20,Emirates,5 hr,Nonstop,81558
+2025-01-30,DAC,DXB,2025-04-20,Emirates,5 hr,Nonstop,81558
+2025-01-30,DAC,DXB,2025-04-21,Biman,5 hr,Nonstop,61304
+2025-01-30,DAC,DXB,2025-04-21,Emirates,4 hr 50 min,Nonstop,67903
+2025-01-30,DAC,DXB,2025-04-21,Emirates,5 hr,Nonstop,67903
+2025-01-30,DAC,DXB,2025-04-21,Emirates,5 hr,Nonstop,70302
+2025-01-30,DAC,DXB,2025-04-21,Oman Air,7 hr 20 min,1 stop,73753
+2025-01-30,DAC,DXB,2025-04-22,Biman,6 hr 50 min,1 stop,57407
+2025-01-30,DAC,DXB,2025-04-22,Oman Air,7 hr 20 min,1 stop,73753
+2025-01-30,DAC,DXB,2025-04-22,Emirates,4 hr 50 min,Nonstop,81558
+2025-01-30,DAC,DXB,2025-04-23,Biman,5 hr,Nonstop,61304
+2025-01-30,DAC,DXB,2025-04-23,Emirates,4 hr 50 min,Nonstop,67903
+2025-01-30,DAC,DXB,2025-04-23,Emirates,5 hr,Nonstop,67903
+2025-01-30,DAC,DXB,2025-04-23,Emirates,5 hr,Nonstop,67903
+2025-01-30,DAC,DXB,2025-04-24,Biman,6 hr 50 min,1 stop,64303
+2025-01-30,DAC,DXB,2025-04-24,Emirates,4 hr 50 min,Nonstop,67903
+2025-01-30,DAC,DXB,2025-04-24,Emirates,5 hr,Nonstop,67903
+2025-01-30,DAC,DXB,2025-04-24,Emirates,5 hr,Nonstop,67903
+2025-01-30,DAC,DXB,2025-04-24,Oman Air,7 hr 20 min,1 stop,73753
+2025-01-30,DAC,DXB,2025-04-25,Biman,6 hr 55 min,1 stop,61304
+2025-01-30,DAC,DXB,2025-04-25,Emirates,4 hr 50 min,Nonstop,67903
+2025-01-30,DAC,DXB,2025-04-25,Emirates,5 hr,Nonstop,67903
+2025-01-30,DAC,DXB,2025-04-25,Emirates,5 hr,Nonstop,70302
+2025-01-30,DAC,DXB,2025-04-26,Oman Air,7 hr 20 min,1 stop,67467
+2025-01-30,DAC,DXB,2025-04-26,Emirates,4 hr 50 min,Nonstop,67903
+2025-01-30,DAC,DXB,2025-04-26,Emirates,5 hr,Nonstop,67903
+2025-01-30,DAC,DXB,2025-04-26,Emirates,5 hr,Nonstop,67903
+2025-01-30,DAC,DXB,2025-04-27,Emirates,4 hr 50 min,Nonstop,71974
+2025-01-30,DAC,DXB,2025-04-27,Emirates,5 hr,Nonstop,71974
+2025-01-30,DAC,DXB,2025-04-27,Emirates,5 hr,Nonstop,71974
+2025-01-30,DAC,DXB,2025-04-28,Biman,5 hr,Nonstop,62641
+2025-01-30,DAC,DXB,2025-04-28,Oman Air,7 hr 20 min,1 stop,73753
+2025-01-30,DAC,DXB,2025-04-28,Emirates,4 hr 50 min,Nonstop,81558
+2025-01-30,DAC,DXB,2025-04-28,Emirates,5 hr,Nonstop,81558
+2025-01-30,DAC,DXB,2025-04-28,Emirates,5 hr,Nonstop,81558
+2025-01-30,DAC,DXB,2025-04-29,Oman Air,7 hr 20 min,1 stop,70115
+2025-01-30,DAC,DXB,2025-04-29,Emirates,4 hr 50 min,Nonstop,71974
+2025-01-30,DAC,DXB,2025-04-29,Emirates,5 hr,Nonstop,71974
+2025-01-30,DAC,DXB,2025-04-30,Biman,5 hr,Nonstop,63952
+2025-01-30,DAC,DXB,2025-04-30,Emirates,4 hr 50 min,Nonstop,71974
+2025-01-30,DAC,DXB,2025-04-30,Emirates,5 hr,Nonstop,71974
+2025-01-30,DAC,DXB,2025-04-30,Emirates,5 hr,Nonstop,71974
+2025-01-30,DAC,JED,2025-02-01,IndiGo,11 hr,1 stop,128463
+2025-01-30,DAC,JED,2025-02-01,Qatar Airways,10 hr 15 min,1 stop,170692
+2025-01-30,DAC,JED,2025-02-02,"Biman, Etihad",21 hr 20 min,2 stops,117922
+2025-01-30,DAC,JED,2025-02-02,IndiGo,11 hr,1 stop,151850
+2025-01-30,DAC,JED,2025-02-02,Qatar Airways,10 hr 15 min,1 stop,153296
+2025-01-30,DAC,JED,2025-02-02,Emirates,11 hr 20 min,1 stop,160268
+2025-01-30,DAC,JED,2025-02-03,Biman,10 hr 30 min,1 stop,99580
+2025-01-30,DAC,JED,2025-02-03,Saudia,7 hr 40 min,Nonstop,183790
+2025-01-30,DAC,JED,2025-02-04,IndiGo,11 hr,1 stop,136957
+2025-01-30,DAC,JED,2025-02-04,Emirates,11 hr 20 min,1 stop,157508
+2025-01-30,DAC,JED,2025-02-04,Saudia,7 hr 40 min,Nonstop,161292
+2025-01-30,DAC,JED,2025-02-05,IndiGo,11 hr,1 stop,136615
+2025-01-30,DAC,JED,2025-02-05,Emirates,11 hr 20 min,1 stop,173704
+2025-01-30,DAC,JED,2025-02-05,Saudia,7 hr 40 min,Nonstop,183791
+2025-01-30,DAC,JED,2025-02-06,Qatar Airways,20 hr 35 min,1 stop,118704
+2025-01-30,DAC,JED,2025-02-06,Saudia,7 hr 40 min,Nonstop,157982
+2025-01-30,DAC,JED,2025-02-06,Saudia,7 hr 40 min,Nonstop,157982
+2025-01-30,DAC,JED,2025-02-06,IndiGo,11 hr,1 stop,164280
+2025-01-30,DAC,JED,2025-02-06,Emirates,10 hr 40 min,1 stop,185223
+2025-01-30,DAC,JED,2025-02-07,Air Arabia,14 hr 10 min,1 stop,111681
+2025-01-30,DAC,JED,2025-02-07,Emirates,11 hr 20 min,1 stop,157508
+2025-01-30,DAC,JED,2025-02-07,Saudia,7 hr 40 min,Nonstop,157982
+2025-01-30,DAC,JED,2025-02-07,Saudia,7 hr 40 min,Nonstop,157982
+2025-01-30,DAC,JED,2025-02-08,IndiGo,11 hr,1 stop,134558
+2025-01-30,DAC,JED,2025-02-08,Saudia,7 hr 40 min,Nonstop,155707
+2025-01-30,DAC,JED,2025-02-08,Emirates,11 hr 20 min,1 stop,166987
+2025-01-30,DAC,JED,2025-02-09,IndiGo,17 hr,1 stop,131092
+2025-01-30,DAC,JED,2025-02-09,Saudia,7 hr 40 min,Nonstop,155707
+2025-01-30,DAC,JED,2025-02-10,Biman,10 hr 30 min,1 stop,99723
+2025-01-30,DAC,JED,2025-02-10,IndiGo,11 hr,1 stop,134616
+2025-01-30,DAC,JED,2025-02-10,Saudia,7 hr 40 min,Nonstop,155707
+2025-01-30,DAC,JED,2025-02-11,IndiGo,11 hr,1 stop,141966
+2025-01-30,DAC,JED,2025-02-11,Saudia,7 hr 40 min,Nonstop,153425
+2025-01-30,DAC,JED,2025-02-11,Saudia,7 hr 40 min,Nonstop,153425
+2025-01-30,DAC,JED,2025-02-12,IndiGo,11 hr,1 stop,131350
+2025-01-30,DAC,JED,2025-02-12,Saudia,7 hr 40 min,Nonstop,155707
+2025-01-30,DAC,JED,2025-02-13,IndiGo,11 hr,1 stop,137275
+2025-01-30,DAC,JED,2025-02-13,Saudia,7 hr 40 min,Nonstop,172563
+2025-01-30,DAC,JED,2025-02-14,IndiGo,11 hr,1 stop,111143
+2025-01-30,DAC,JED,2025-02-14,Saudia,7 hr 40 min,Nonstop,155707
+2025-01-30,DAC,JED,2025-02-14,Saudia,7 hr 40 min,Nonstop,155707
+2025-01-30,DAC,JED,2025-02-15,Air Arabia,14 hr 10 min,1 stop,114430
+2025-01-30,DAC,JED,2025-02-15,Gulf Air,13 hr 50 min,1 stop,137163
+2025-01-30,DAC,JED,2025-02-15,Saudia,7 hr 40 min,Nonstop,155707
+2025-01-30,DAC,JED,2025-02-16,Air Arabia,15 hr 40 min,1 stop,118072
+2025-01-30,DAC,JED,2025-02-16,flydubai,12 hr 5 min,1 stop,125523
+2025-01-30,DAC,JED,2025-02-16,IndiGo,11 hr,1 stop,127676
+2025-01-30,DAC,JED,2025-02-17,"Biman, Etihad",19 hr 40 min,2 stops,119122
+2025-01-30,DAC,JED,2025-02-17,IndiGo,11 hr,1 stop,123875
+2025-01-30,DAC,JED,2025-02-17,Gulf Air,13 hr 50 min,1 stop,137163
+2025-01-30,DAC,JED,2025-02-17,Saudia,7 hr 40 min,Nonstop,155707
+2025-01-30,DAC,JED,2025-02-18,"Biman, Saudia",16 hr,1 stop,89089
+2025-01-30,DAC,JED,2025-02-18,"Biman, Saudia",13 hr,1 stop,106525
+2025-01-30,DAC,JED,2025-02-18,"Biman, Saudia",11 hr,1 stop,108829
+2025-01-30,DAC,JED,2025-02-19,Air Arabia,15 hr 40 min,1 stop,118403
+2025-01-30,DAC,JED,2025-02-19,Air Arabia,14 hr 10 min,1 stop,120886
+2025-01-30,DAC,JED,2025-02-19,Gulf Air,13 hr 50 min,1 stop,145441
+2025-01-30,DAC,JED,2025-02-19,Saudia,7 hr 40 min,Nonstop,165306
+2025-01-30,DAC,JED,2025-02-20,Air Arabia,9 hr 40 min,1 stop,130452
+2025-01-30,DAC,JED,2025-02-20,flydubai,12 hr 5 min,1 stop,135792
+2025-01-30,DAC,JED,2025-02-21,Air Arabia,15 hr 40 min,1 stop,126082
+2025-01-30,DAC,JED,2025-02-21,Air Arabia,14 hr 10 min,1 stop,128565
+2025-01-30,DAC,JED,2025-02-21,Saudia,7 hr 40 min,Nonstop,165306
+2025-01-30,DAC,JED,2025-02-22,flydubai,12 hr 5 min,1 stop,125523
+2025-01-30,DAC,JED,2025-02-22,Qatar Airways,9 hr 40 min,1 stop,135419
+2025-01-30,DAC,JED,2025-02-22,Gulf Air,13 hr 50 min,1 stop,137163
+2025-01-30,DAC,JED,2025-02-23,Air Arabia,11 hr 15 min,1 stop,107038
+2025-01-30,DAC,JED,2025-02-23,Air Arabia,9 hr 40 min,1 stop,123964
+2025-01-30,DAC,JED,2025-02-23,Qatar Airways,10 hr 15 min,1 stop,130140
+2025-01-30,DAC,JED,2025-02-23,IndiGo,11 hr,1 stop,132499
+2025-01-30,DAC,JED,2025-02-24,Air Arabia,14 hr 10 min,1 stop,108214
+2025-01-30,DAC,JED,2025-02-24,IndiGo,11 hr,1 stop,117576
+2025-01-30,DAC,JED,2025-02-24,Qatar Airways,9 hr 40 min,1 stop,129060
+2025-01-30,DAC,JED,2025-02-25,IndiGo,11 hr,1 stop,109742
+2025-01-30,DAC,JED,2025-02-25,Qatar Airways,16 hr 35 min,1 stop,129060
+2025-01-30,DAC,JED,2025-02-25,flydubai,11 hr 50 min,1 stop,135694
+2025-01-30,DAC,JED,2025-02-26,flydubai,12 hr 5 min,1 stop,125425
+2025-01-30,DAC,JED,2025-02-26,Qatar Airways,9 hr 40 min,1 stop,129060
+2025-01-30,DAC,JED,2025-02-26,Gulf Air,13 hr 50 min,1 stop,137163
+2025-01-30,DAC,JED,2025-02-28,Air Arabia,15 hr 40 min,1 stop,102322
+2025-01-30,DAC,JED,2025-02-28,IndiGo,11 hr,1 stop,120100
+2025-01-30,DAC,JED,2025-02-28,flydubai,11 hr 50 min,1 stop,125425
+2025-01-30,DAC,JED,2025-03-01,Air Arabia,14 hr 10 min,1 stop,121051
+2025-01-30,DAC,JED,2025-03-01,flydubai,11 hr 50 min,1 stop,125425
+2025-01-30,DAC,JED,2025-03-01,Oman Air,11 hr,1 stop,126879
+2025-01-30,DAC,JED,2025-03-01,Saudia,7 hr 40 min,Nonstop,131174
+2025-01-30,DAC,JED,2025-03-02,IndiGo,17 hr,1 stop,90470
+2025-01-30,DAC,JED,2025-03-02,Saudia,7 hr 40 min,Nonstop,131174
+2025-01-30,DAC,JED,2025-03-03,IndiGo,17 hr,1 stop,92468
+2025-01-30,DAC,JED,2025-03-03,Air Arabia,9 hr 40 min,1 stop,113934
+2025-01-30,DAC,JED,2025-03-03,Emirates,10 hr 40 min,1 stop,124514
+2025-01-30,DAC,JED,2025-03-04,IndiGo,16 hr 15 min,1 stop,94862
+2025-01-30,DAC,JED,2025-03-04,Air Arabia,9 hr 40 min,1 stop,108903
+2025-01-30,DAC,JED,2025-03-04,Saudia,7 hr 40 min,Nonstop,127095
+2025-01-30,DAC,JED,2025-03-04,Biman,8 hr,Nonstop,127850
+2025-01-30,DAC,JED,2025-03-05,IndiGo,11 hr,1 stop,99906
+2025-01-30,DAC,JED,2025-03-05,"Biman, Saudia",12 hr 30 min,1 stop,106319
+2025-01-30,DAC,JED,2025-03-06,Emirates,10 hr 40 min,1 stop,116235
+2025-01-30,DAC,JED,2025-03-06,Saudia,7 hr 40 min,Nonstop,117496
+2025-01-30,DAC,JED,2025-03-07,IndiGo,17 hr,1 stop,87947
+2025-01-30,DAC,JED,2025-03-07,IndiGo,11 hr,1 stop,94553
+2025-01-30,DAC,JED,2025-03-07,Qatar Airways,10 hr 15 min,1 stop,103744
+2025-01-30,DAC,JED,2025-03-07,Saudia,7 hr 40 min,Nonstop,110057
+2025-01-30,DAC,JED,2025-03-07,Saudia,7 hr 40 min,Nonstop,110057
+2025-01-30,DAC,JED,2025-03-08,IndiGo,11 hr,1 stop,91741
+2025-01-30,DAC,JED,2025-03-08,Biman,8 hr,Nonstop,100855
+2025-01-30,DAC,JED,2025-03-08,Saudia,7 hr 40 min,Nonstop,110057
+2025-01-30,DAC,JED,2025-03-09,IndiGo,17 hr,1 stop,85828
+2025-01-30,DAC,JED,2025-03-09,IndiGo,11 hr,1 stop,89444
+2025-01-30,DAC,JED,2025-03-09,Emirates,10 hr 40 min,1 stop,107836
+2025-01-30,DAC,JED,2025-03-09,Saudia,7 hr 40 min,Nonstop,110057
+2025-01-30,DAC,JED,2025-03-09,Saudia,7 hr 40 min,Nonstop,110057
+2025-01-30,DAC,JED,2025-03-10,IndiGo,17 hr,1 stop,77841
+2025-01-30,DAC,JED,2025-03-10,IndiGo,11 hr,1 stop,82747
+2025-01-30,DAC,JED,2025-03-10,Saudia,7 hr 40 min,Nonstop,110057
+2025-01-30,DAC,JED,2025-03-11,Biman,8 hr,Nonstop,106854
+2025-01-30,DAC,JED,2025-03-11,Saudia,7 hr 40 min,Nonstop,110057
+2025-01-30,DAC,JED,2025-03-11,Saudia,7 hr 40 min,Nonstop,110057
+2025-01-30,DAC,JED,2025-03-11,Saudia,7 hr 40 min,Nonstop,110057
+2025-01-30,DAC,JED,2025-03-12,IndiGo,16 hr 30 min,1 stop,79816
+2025-01-30,DAC,JED,2025-03-12,IndiGo,11 hr,1 stop,84156
+2025-01-30,DAC,JED,2025-03-12,Saudia,7 hr 40 min,Nonstop,110057
+2025-01-30,DAC,JED,2025-03-13,IndiGo,17 hr 10 min,1 stop,79475
+2025-01-30,DAC,JED,2025-03-13,IndiGo,11 hr,1 stop,87116
+2025-01-30,DAC,JED,2025-03-13,Saudia,7 hr 40 min,Nonstop,110056
+2025-01-30,DAC,JED,2025-03-14,Qatar Airways,18 hr 5 min,1 stop,74889
+2025-01-30,DAC,JED,2025-03-14,IndiGo,11 hr,1 stop,84219
+2025-01-30,DAC,JED,2025-03-14,Emirates,10 hr 40 min,1 stop,98357
+2025-01-30,DAC,JED,2025-03-15,IndiGo,11 hr,1 stop,84219
+2025-01-30,DAC,JED,2025-03-15,Emirates,10 hr 40 min,1 stop,98358
+2025-01-30,DAC,JED,2025-03-15,Biman,8 hr,Nonstop,100855
+2025-01-30,DAC,JED,2025-03-15,Saudia,7 hr 40 min,Nonstop,114733
+2025-01-30,DAC,JED,2025-03-16,IndiGo,11 hr,1 stop,92869
+2025-01-30,DAC,JED,2025-03-16,Air Arabia,9 hr 40 min,1 stop,106817
+2025-01-30,DAC,JED,2025-03-16,Emirates,11 hr 5 min,1 stop,110116
+2025-01-30,DAC,JED,2025-03-16,Saudia,7 hr 40 min,Nonstop,114733
+2025-01-30,DAC,JED,2025-03-16,Saudia,7 hr 40 min,Nonstop,114733
+2025-01-30,DAC,JED,2025-03-17,IndiGo,11 hr,1 stop,97856
+2025-01-30,DAC,JED,2025-03-17,Air Arabia,9 hr 40 min,1 stop,102348
+2025-01-30,DAC,JED,2025-03-17,Biman,10 hr 10 min,1 stop,103854
+2025-01-30,DAC,JED,2025-03-17,Saudia,7 hr 40 min,Nonstop,114733
+2025-01-30,DAC,JED,2025-03-17,Saudia,7 hr 40 min,Nonstop,119292
+2025-01-30,DAC,JED,2025-03-18,Gulf Air,22 hr 20 min,1 stop,82949
+2025-01-30,DAC,JED,2025-03-18,Biman,8 hr,Nonstop,103854
+2025-01-30,DAC,JED,2025-03-18,Saudia,7 hr 40 min,Nonstop,114733
+2025-01-30,DAC,JED,2025-03-19,Air Arabia,20 hr 45 min,1 stop,82279
+2025-01-30,DAC,JED,2025-03-19,IndiGo,11 hr,1 stop,97856
+2025-01-30,DAC,JED,2025-03-19,Gulf Air,13 hr 50 min,1 stop,107648
+2025-01-30,DAC,JED,2025-03-20,IndiGo,11 hr,1 stop,99829
+2025-01-30,DAC,JED,2025-03-20,Gulf Air,13 hr 50 min,1 stop,100570
+2025-01-30,DAC,JED,2025-03-20,Biman,10 hr 5 min,1 stop,103854
+2025-01-30,DAC,JED,2025-03-20,Saudia,7 hr 40 min,Nonstop,114733
+2025-01-30,DAC,JED,2025-03-21,Air Arabia,11 hr 15 min,1 stop,80024
+2025-01-30,DAC,JED,2025-03-21,Air Arabia,14 hr 10 min,1 stop,80024
+2025-01-30,DAC,JED,2025-03-21,Air Arabia,9 hr 40 min,1 stop,88281
+2025-01-30,DAC,JED,2025-03-21,Gulf Air,11 hr 25 min,1 stop,100570
+2025-01-30,DAC,JED,2025-03-22,Air Arabia,9 hr 40 min,1 stop,88281
+2025-01-30,DAC,JED,2025-03-22,Biman,8 hr,Nonstop,103854
+2025-01-30,DAC,JED,2025-03-22,Saudia,7 hr 40 min,Nonstop,114733
+2025-01-30,DAC,JED,2025-03-23,Air Arabia,11 hr 15 min,1 stop,88314
+2025-01-30,DAC,JED,2025-03-23,Air Arabia,14 hr 10 min,1 stop,88314
+2025-01-30,DAC,JED,2025-03-23,Air Arabia,9 hr 40 min,1 stop,88678
+2025-01-30,DAC,JED,2025-03-24,Air Arabia,11 hr 15 min,1 stop,87950
+2025-01-30,DAC,JED,2025-03-24,Air Arabia,14 hr 10 min,1 stop,87950
+2025-01-30,DAC,JED,2025-03-24,Air Arabia,9 hr 40 min,1 stop,88314
+2025-01-30,DAC,JED,2025-03-24,Gulf Air,13 hr 50 min,1 stop,100570
+2025-01-30,DAC,JED,2025-03-24,Saudia,7 hr 40 min,Nonstop,116633
+2025-01-30,DAC,JED,2025-03-25,Air Arabia,11 hr 15 min,1 stop,87732
+2025-01-30,DAC,JED,2025-03-25,Air Arabia,14 hr 10 min,1 stop,87732
+2025-01-30,DAC,JED,2025-03-25,Air Arabia,9 hr 40 min,1 stop,90168
+2025-01-30,DAC,JED,2025-03-25,IndiGo,11 hr,1 stop,95541
+2025-01-30,DAC,JED,2025-03-26,Air Arabia,9 hr 40 min,1 stop,88314
+2025-01-30,DAC,JED,2025-03-26,IndiGo,11 hr,1 stop,95541
+2025-01-30,DAC,JED,2025-03-26,Saudia,7 hr 40 min,Nonstop,104418
+2025-01-30,DAC,JED,2025-03-27,Air Arabia,11 hr 15 min,1 stop,87553
+2025-01-30,DAC,JED,2025-03-27,Air Arabia,9 hr 40 min,1 stop,87917
+2025-01-30,DAC,JED,2025-03-27,Saudia,7 hr 40 min,Nonstop,102139
+2025-01-30,DAC,JED,2025-03-28,Air Arabia,11 hr 15 min,1 stop,91062
+2025-01-30,DAC,JED,2025-03-28,Air Arabia,14 hr 10 min,1 stop,91062
+2025-01-30,DAC,JED,2025-03-28,Air Arabia,9 hr 40 min,1 stop,91426
+2025-01-30,DAC,JED,2025-03-28,Saudia,7 hr 40 min,Nonstop,99859
+2025-01-30,DAC,JED,2025-03-28,Saudia,7 hr 40 min,Nonstop,99859
+2025-01-30,DAC,JED,2025-03-29,Air Arabia,11 hr 15 min,1 stop,82654
+2025-01-30,DAC,JED,2025-03-29,Air Arabia,13 hr 50 min,1 stop,82654
+2025-01-30,DAC,JED,2025-03-29,Air Arabia,9 hr 40 min,1 stop,83018
+2025-01-30,DAC,JED,2025-03-29,Saudia,7 hr 40 min,Nonstop,104414
+2025-01-30,DAC,JED,2025-03-29,Saudia,7 hr 40 min,Nonstop,104414
+2025-01-30,DAC,JED,2025-03-30,Air Arabia,9 hr 55 min,1 stop,82422
+2025-01-30,DAC,JED,2025-03-30,Air Arabia,13 hr 45 min,1 stop,82422
+2025-01-30,DAC,JED,2025-03-30,Saudia,7 hr 40 min,Nonstop,99859
+2025-01-30,DAC,JED,2025-03-30,Saudia,6 hr 55 min,Nonstop,99859
+2025-01-30,DAC,JED,2025-03-31,Air Arabia,9 hr 55 min,1 stop,80767
+2025-01-30,DAC,JED,2025-03-31,Air Arabia,13 hr 45 min,1 stop,80767
+2025-01-30,DAC,JED,2025-03-31,Saudia,6 hr 55 min,Nonstop,99859
+2025-01-30,DAC,JED,2025-03-31,Saudia,6 hr 55 min,Nonstop,99859
+2025-01-30,DAC,JED,2025-03-31,Gulf Air,8 hr 45 min,1 stop,100570
+2025-01-30,DAC,JED,2025-04-01,Air Arabia,9 hr 55 min,1 stop,80767
+2025-01-30,DAC,JED,2025-04-01,Air Arabia,13 hr 45 min,1 stop,80767
+2025-01-30,DAC,JED,2025-04-01,Saudia,6 hr 55 min,Nonstop,99859
+2025-01-30,DAC,JED,2025-04-01,Saudia,6 hr 55 min,Nonstop,99859
+2025-01-30,DAC,JED,2025-04-01,Saudia,6 hr 55 min,Nonstop,99859
+2025-01-30,DAC,JED,2025-04-02,Air Arabia,12 hr 45 min,1 stop,80767
+2025-01-30,DAC,JED,2025-04-02,Air Arabia,13 hr 45 min,1 stop,80767
+2025-01-30,DAC,JED,2025-04-02,Saudia,6 hr 55 min,Nonstop,102139
+2025-01-30,DAC,JED,2025-04-02,Gulf Air,8 hr 45 min,1 stop,103569
+2025-01-30,DAC,JED,2025-04-03,Air Arabia,12 hr 45 min,1 stop,73883
+2025-01-30,DAC,JED,2025-04-03,Air Arabia,13 hr 45 min,1 stop,80767
+2025-01-30,DAC,JED,2025-04-03,Saudia,6 hr 55 min,Nonstop,99859
+2025-01-30,DAC,JED,2025-04-04,Air Arabia,9 hr 55 min,1 stop,74247
+2025-01-30,DAC,JED,2025-04-04,Air Arabia,13 hr 45 min,1 stop,74247
+2025-01-30,DAC,JED,2025-04-04,Saudia,6 hr 55 min,Nonstop,102139
+2025-01-30,DAC,JED,2025-04-05,Air Arabia,19 hr 40 min,1 stop,74247
+2025-01-30,DAC,JED,2025-04-05,Saudia,6 hr 55 min,Nonstop,102139
+2025-01-30,DAC,JED,2025-04-05,Biman,6 hr 55 min,Nonstop,103854
+2025-01-30,DAC,JED,2025-04-06,Air Arabia,19 hr 40 min,1 stop,74246
+2025-01-30,DAC,JED,2025-04-06,IndiGo,11 hr 5 min,1 stop,96787
+2025-01-30,DAC,JED,2025-04-06,Saudia,6 hr 55 min,Nonstop,102139
+2025-01-30,DAC,JED,2025-04-06,Saudia,6 hr 55 min,Nonstop,102139
+2025-01-30,DAC,JED,2025-04-07,Air Arabia,19 hr 40 min,1 stop,73883
+2025-01-30,DAC,JED,2025-04-07,IndiGo,11 hr 5 min,1 stop,93299
+2025-01-30,DAC,JED,2025-04-07,Saudia,6 hr 55 min,Nonstop,102139
+2025-01-30,DAC,JED,2025-04-07,Gulf Air,8 hr 45 min,1 stop,103569
+2025-01-30,DAC,JED,2025-04-08,Air Arabia,19 hr 40 min,1 stop,73883
+2025-01-30,DAC,JED,2025-04-08,Biman,6 hr 55 min,Nonstop,101008
+2025-01-30,DAC,JED,2025-04-08,Saudia,6 hr 55 min,Nonstop,102139
+2025-01-30,DAC,JED,2025-04-09,Air Arabia,19 hr 40 min,1 stop,73883
+2025-01-30,DAC,JED,2025-04-09,IndiGo,11 hr 5 min,1 stop,93299
+2025-01-30,DAC,JED,2025-04-09,Gulf Air,8 hr 45 min,1 stop,103569
+2025-01-30,DAC,JED,2025-04-09,Saudia,6 hr 55 min,Nonstop,104418
+2025-01-30,DAC,JED,2025-04-09,Saudia,6 hr 55 min,Nonstop,104418
+2025-01-30,DAC,JED,2025-04-10,Air Arabia,13 hr 45 min,1 stop,74246
+2025-01-30,DAC,JED,2025-04-10,IndiGo,11 hr 5 min,1 stop,93299
+2025-01-30,DAC,JED,2025-04-10,Saudia,6 hr 55 min,Nonstop,102139
+2025-01-30,DAC,JED,2025-04-11,Air Arabia,19 hr 40 min,1 stop,74247
+2025-01-30,DAC,JED,2025-04-11,IndiGo,11 hr 5 min,1 stop,89635
+2025-01-30,DAC,JED,2025-04-11,Saudia,6 hr 55 min,Nonstop,102139
+2025-01-30,DAC,JED,2025-04-12,Air Arabia,19 hr 40 min,1 stop,74247
+2025-01-30,DAC,JED,2025-04-12,IndiGo,11 hr 5 min,1 stop,87251
+2025-01-30,DAC,JED,2025-04-12,Biman,6 hr 55 min,Nonstop,97855
+2025-01-30,DAC,JED,2025-04-12,Saudia,6 hr 55 min,Nonstop,102139
+2025-01-30,DAC,JED,2025-04-13,Air Arabia,19 hr 40 min,1 stop,74247
+2025-01-30,DAC,JED,2025-04-13,IndiGo,11 hr 5 min,1 stop,87251
+2025-01-30,DAC,JED,2025-04-13,Saudia,6 hr 55 min,Nonstop,102139
+2025-01-30,DAC,JED,2025-04-14,Air Arabia,19 hr 40 min,1 stop,73883
+2025-01-30,DAC,JED,2025-04-14,IndiGo,11 hr 5 min,1 stop,93299
+2025-01-30,DAC,JED,2025-04-14,Biman,8 hr 45 min,1 stop,97420
+2025-01-30,DAC,JED,2025-04-14,Saudia,6 hr 55 min,Nonstop,102139
+2025-01-30,DAC,JED,2025-04-15,Air Arabia,19 hr 40 min,1 stop,73882
+2025-01-30,DAC,JED,2025-04-15,Biman,6 hr 55 min,Nonstop,95009
+2025-01-30,DAC,JED,2025-04-15,Saudia,6 hr 55 min,Nonstop,102139
+2025-01-30,DAC,JED,2025-04-16,Air Arabia,19 hr 40 min,1 stop,73883
+2025-01-30,DAC,JED,2025-04-16,Emirates,9 hr 40 min,1 stop,96286
+2025-01-30,DAC,JED,2025-04-16,Saudia,6 hr 55 min,Nonstop,102139
+2025-01-30,DAC,JED,2025-04-17,Air Arabia,12 hr 45 min,1 stop,79080
+2025-01-30,DAC,JED,2025-04-17,Saudia,6 hr 55 min,Nonstop,102139
+2025-01-30,DAC,JED,2025-04-17,Saudia,6 hr 55 min,Nonstop,102139
+2025-01-30,DAC,JED,2025-04-17,Saudia,6 hr 55 min,Nonstop,102139
+2025-01-30,DAC,JED,2025-04-18,Air Arabia,12 hr 45 min,1 stop,87916
+2025-01-30,DAC,JED,2025-04-18,Emirates,9 hr 40 min,1 stop,99166
+2025-01-30,DAC,JED,2025-04-18,Saudia,6 hr 55 min,Nonstop,102139
+2025-01-30,DAC,JED,2025-04-19,Air Arabia,19 hr 40 min,1 stop,74247
+2025-01-30,DAC,JED,2025-04-19,Emirates,10 hr 35 min,1 stop,96286
+2025-01-30,DAC,JED,2025-04-19,Biman,6 hr 55 min,Nonstop,97855
+2025-01-30,DAC,JED,2025-04-19,Saudia,6 hr 55 min,Nonstop,102139
+2025-01-30,DAC,JED,2025-04-20,Air Arabia,12 hr 45 min,1 stop,74246
+2025-01-30,DAC,JED,2025-04-20,Air Arabia,19 hr 40 min,1 stop,74246
+2025-01-30,DAC,JED,2025-04-20,IndiGo,11 hr 5 min,1 stop,91846
+2025-01-30,DAC,JED,2025-04-20,Emirates,9 hr 40 min,1 stop,99166
+2025-01-30,DAC,JED,2025-04-20,Saudia,6 hr 55 min,Nonstop,102139
+2025-01-30,DAC,JED,2025-04-21,Air Arabia,12 hr 45 min,1 stop,80767
+2025-01-30,DAC,JED,2025-04-21,Saudia,6 hr 55 min,Nonstop,102139
+2025-01-30,DAC,JED,2025-04-22,Air Arabia,12 hr 45 min,1 stop,73883
+2025-01-30,DAC,JED,2025-04-22,Biman,6 hr 55 min,Nonstop,95009
+2025-01-30,DAC,JED,2025-04-22,Saudia,6 hr 55 min,Nonstop,102139
+2025-01-30,DAC,JED,2025-04-23,Air Arabia,12 hr 45 min,1 stop,73883
+2025-01-30,DAC,JED,2025-04-23,Air Arabia,19 hr 40 min,1 stop,73883
+2025-01-30,DAC,JED,2025-04-23,Emirates,9 hr 40 min,1 stop,96286
+2025-01-30,DAC,JED,2025-04-23,Saudia,6 hr 55 min,Nonstop,109934
+2025-01-30,DAC,JED,2025-04-24,Air Arabia,13 hr 45 min,1 stop,74247
+2025-01-30,DAC,JED,2025-04-24,Saudia,6 hr 55 min,Nonstop,102139
+2025-01-30,DAC,JED,2025-04-24,Saudia,6 hr 55 min,Nonstop,102139
+2025-01-30,DAC,JED,2025-04-24,Saudia,6 hr 55 min,Nonstop,102139
+2025-01-30,DAC,JED,2025-04-25,Air Arabia,12 hr 45 min,1 stop,80767
+2025-01-30,DAC,JED,2025-04-25,Saudia,6 hr 55 min,Nonstop,103407
+2025-01-30,DAC,JED,2025-04-26,Air Arabia,12 hr 45 min,1 stop,74246
+2025-01-30,DAC,JED,2025-04-26,Air Arabia,13 hr 45 min,1 stop,74246
+2025-01-30,DAC,JED,2025-04-26,Biman,6 hr 55 min,Nonstop,95009
+2025-01-30,DAC,JED,2025-04-26,Saudia,6 hr 55 min,Nonstop,102139
+2025-01-30,DAC,JED,2025-04-27,Air Arabia,12 hr 45 min,1 stop,74247
+2025-01-30,DAC,JED,2025-04-27,Air Arabia,13 hr 45 min,1 stop,74247
+2025-01-30,DAC,JED,2025-04-27,Saudia,6 hr 55 min,Nonstop,104304
+2025-01-30,DAC,JED,2025-04-28,Air Arabia,12 hr 45 min,1 stop,85301
+2025-01-30,DAC,JED,2025-04-28,Emirates,9 hr 40 min,1 stop,99166
+2025-01-30,DAC,JED,2025-04-29,Air Arabia,12 hr 45 min,1 stop,73883
+2025-01-30,DAC,JED,2025-04-29,Air Arabia,19 hr 40 min,1 stop,73883
+2025-01-30,DAC,JED,2025-04-29,Emirates,9 hr 40 min,1 stop,96286
+2025-01-30,DAC,JED,2025-04-30,Air Arabia,19 hr 40 min,1 stop,73882
+2025-01-30,DAC,JED,2025-04-30,Emirates,9 hr 40 min,1 stop,96286
+2025-01-30,DAC,JED,2025-04-30,Qatar Airways,10 hr 25 min,1 stop,99785
+2025-01-30,DAC,SIN,2025-02-01,Biman,4 hr 15 min,Nonstop,48203
+2025-01-30,DAC,SIN,2025-02-01,IndiGo,13 hr 5 min,1 stop,68699
+2025-01-30,DAC,SIN,2025-02-01,Batik Air,6 hr 10 min,1 stop,98892
+2025-01-30,DAC,SIN,2025-02-01,THAI,19 hr 35 min,1 stop,111315
+2025-01-30,DAC,SIN,2025-02-02,Biman,4 hr 15 min,Nonstop,50603
+2025-01-30,DAC,SIN,2025-02-02,China Eastern,18 hr 40 min,1 stop,65231
+2025-01-30,DAC,SIN,2025-02-02,IndiGo,13 hr 5 min,1 stop,68699
+2025-01-30,DAC,SIN,2025-02-03,Biman,4 hr 15 min,Nonstop,51747
+2025-01-30,DAC,SIN,2025-02-03,IndiGo,13 hr 5 min,1 stop,54794
+2025-01-30,DAC,SIN,2025-02-03,THAI,19 hr 35 min,1 stop,64643
+2025-01-30,DAC,SIN,2025-02-03,AirAsia,6 hr 25 min,1 stop,71873
+2025-01-30,DAC,SIN,2025-02-04,IndiGo,13 hr 5 min,1 stop,49087
+2025-01-30,DAC,SIN,2025-02-04,THAI,7 hr 15 min,1 stop,61933
+2025-01-30,DAC,SIN,2025-02-04,THAI,6 hr 40 min,1 stop,61933
+2025-01-30,DAC,SIN,2025-02-04,Biman,4 hr 15 min,Nonstop,66976
+2025-01-30,DAC,SIN,2025-02-05,Batik Air,14 hr 40 min,1 stop,49256
+2025-01-30,DAC,SIN,2025-02-05,IndiGo,13 hr 5 min,1 stop,53682
+2025-01-30,DAC,SIN,2025-02-05,THAI,7 hr 15 min,1 stop,61933
+2025-01-30,DAC,SIN,2025-02-05,THAI,6 hr 40 min,1 stop,61933
+2025-01-30,DAC,SIN,2025-02-05,Biman,4 hr 15 min,Nonstop,74415
+2025-01-30,DAC,SIN,2025-02-06,IndiGo,13 hr 5 min,1 stop,46947
+2025-01-30,DAC,SIN,2025-02-06,THAI,6 hr 40 min,1 stop,61933
+2025-01-30,DAC,SIN,2025-02-06,IndiGo,9 hr 45 min,1 stop,62814
+2025-01-30,DAC,SIN,2025-02-07,IndiGo,13 hr 5 min,1 stop,43635
+2025-01-30,DAC,SIN,2025-02-07,IndiGo,9 hr 45 min,1 stop,48431
+2025-01-30,DAC,SIN,2025-02-07,THAI,6 hr 40 min,1 stop,61933
+2025-01-30,DAC,SIN,2025-02-07,Biman,4 hr 15 min,Nonstop,72615
+2025-01-30,DAC,SIN,2025-02-08,Batik Air,8 hr,1 stop,45148
+2025-01-30,DAC,SIN,2025-02-08,IndiGo,9 hr 45 min,1 stop,46207
+2025-01-30,DAC,SIN,2025-02-08,THAI,6 hr 40 min,1 stop,61933
+2025-01-30,DAC,SIN,2025-02-09,IndiGo,13 hr 5 min,1 stop,45661
+2025-01-30,DAC,SIN,2025-02-09,Biman,4 hr 15 min,Nonstop,61217
+2025-01-30,DAC,SIN,2025-02-09,THAI,6 hr 40 min,1 stop,61933
+2025-01-30,DAC,SIN,2025-02-10,IndiGo,9 hr 45 min,1 stop,51619
+2025-01-30,DAC,SIN,2025-02-10,THAI,10 hr 50 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-02-10,Biman,4 hr 15 min,Nonstop,65176
+2025-01-30,DAC,SIN,2025-02-11,IndiGo,13 hr 5 min,1 stop,45775
+2025-01-30,DAC,SIN,2025-02-11,THAI,6 hr 40 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-02-11,Biman,4 hr 15 min,Nonstop,63616
+2025-01-30,DAC,SIN,2025-02-12,IndiGo,9 hr 45 min,1 stop,44645
+2025-01-30,DAC,SIN,2025-02-12,THAI,6 hr 40 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-02-12,Biman,4 hr 15 min,Nonstop,66976
+2025-01-30,DAC,SIN,2025-02-13,IndiGo,9 hr 45 min,1 stop,47597
+2025-01-30,DAC,SIN,2025-02-13,THAI,6 hr 40 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-02-13,Biman,4 hr 15 min,Nonstop,65176
+2025-01-30,DAC,SIN,2025-02-14,IndiGo,9 hr 45 min,1 stop,45940
+2025-01-30,DAC,SIN,2025-02-14,THAI,6 hr 40 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-02-14,Biman,4 hr 15 min,Nonstop,61817
+2025-01-30,DAC,SIN,2025-02-15,IndiGo,13 hr 5 min,1 stop,36764
+2025-01-30,DAC,SIN,2025-02-15,IndiGo,9 hr 45 min,1 stop,43950
+2025-01-30,DAC,SIN,2025-02-15,THAI,10 hr 50 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-02-15,Biman,4 hr 15 min,Nonstop,65176
+2025-01-30,DAC,SIN,2025-02-16,IndiGo,13 hr 5 min,1 stop,42791
+2025-01-30,DAC,SIN,2025-02-16,IndiGo,9 hr 45 min,1 stop,50916
+2025-01-30,DAC,SIN,2025-02-16,THAI,6 hr 40 min,1 stop,61933
+2025-01-30,DAC,SIN,2025-02-17,IndiGo,13 hr 5 min,1 stop,38588
+2025-01-30,DAC,SIN,2025-02-17,IndiGo,9 hr 45 min,1 stop,44901
+2025-01-30,DAC,SIN,2025-02-17,THAI,6 hr 40 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-02-17,Biman,4 hr 15 min,Nonstop,65176
+2025-01-30,DAC,SIN,2025-02-18,IndiGo,17 hr 55 min,1 stop,41114
+2025-01-30,DAC,SIN,2025-02-18,IndiGo,13 hr 5 min,1 stop,41491
+2025-01-30,DAC,SIN,2025-02-18,IndiGo,9 hr 45 min,1 stop,46875
+2025-01-30,DAC,SIN,2025-02-18,THAI,6 hr 40 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-02-18,Biman,4 hr 15 min,Nonstop,57617
+2025-01-30,DAC,SIN,2025-02-19,IndiGo,17 hr 55 min,1 stop,37362
+2025-01-30,DAC,SIN,2025-02-19,IndiGo,13 hr 5 min,1 stop,39261
+2025-01-30,DAC,SIN,2025-02-19,IndiGo,9 hr 45 min,1 stop,40197
+2025-01-30,DAC,SIN,2025-02-19,THAI,6 hr 40 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-02-19,Biman,4 hr 15 min,Nonstop,61817
+2025-01-30,DAC,SIN,2025-02-20,IndiGo,17 hr 55 min,1 stop,38057
+2025-01-30,DAC,SIN,2025-02-20,IndiGo,13 hr 5 min,1 stop,39261
+2025-01-30,DAC,SIN,2025-02-20,IndiGo,9 hr 45 min,1 stop,40892
+2025-01-30,DAC,SIN,2025-02-20,Biman,4 hr 15 min,Nonstop,59417
+2025-01-30,DAC,SIN,2025-02-20,THAI,7 hr 15 min,1 stop,61933
+2025-01-30,DAC,SIN,2025-02-21,IndiGo,17 hr 55 min,1 stop,40614
+2025-01-30,DAC,SIN,2025-02-21,IndiGo,9 hr 45 min,1 stop,42816
+2025-01-30,DAC,SIN,2025-02-21,THAI,10 hr 50 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-02-21,Biman,4 hr 15 min,Nonstop,65176
+2025-01-30,DAC,SIN,2025-02-22,IndiGo,17 hr 55 min,1 stop,38439
+2025-01-30,DAC,SIN,2025-02-22,IndiGo,13 hr 5 min,1 stop,38588
+2025-01-30,DAC,SIN,2025-02-22,IndiGo,9 hr 45 min,1 stop,39502
+2025-01-30,DAC,SIN,2025-02-22,THAI,6 hr 40 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-02-22,Biman,4 hr 15 min,Nonstop,61817
+2025-01-30,DAC,SIN,2025-02-23,IndiGo,13 hr 5 min,1 stop,36000
+2025-01-30,DAC,SIN,2025-02-23,IndiGo,9 hr 45 min,1 stop,44645
+2025-01-30,DAC,SIN,2025-02-23,THAI,6 hr 40 min,1 stop,61933
+2025-01-30,DAC,SIN,2025-02-23,Biman,4 hr 15 min,Nonstop,63616
+2025-01-30,DAC,SIN,2025-02-24,IndiGo,17 hr 55 min,1 stop,37779
+2025-01-30,DAC,SIN,2025-02-24,IndiGo,13 hr 5 min,1 stop,39700
+2025-01-30,DAC,SIN,2025-02-24,IndiGo,9 hr 45 min,1 stop,40614
+2025-01-30,DAC,SIN,2025-02-24,THAI,6 hr 40 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-02-24,Biman,4 hr 15 min,Nonstop,59417
+2025-01-30,DAC,SIN,2025-02-25,IndiGo,13 hr 5 min,1 stop,38571
+2025-01-30,DAC,SIN,2025-02-25,IndiGo,9 hr 45 min,1 stop,39551
+2025-01-30,DAC,SIN,2025-02-25,Biman,4 hr 15 min,Nonstop,59417
+2025-01-30,DAC,SIN,2025-02-26,IndiGo,13 hr 5 min,1 stop,35305
+2025-01-30,DAC,SIN,2025-02-26,IndiGo,9 hr 45 min,1 stop,38189
+2025-01-30,DAC,SIN,2025-02-26,Biman,4 hr 15 min,Nonstop,57617
+2025-01-30,DAC,SIN,2025-02-27,IndiGo,13 hr 5 min,1 stop,35305
+2025-01-30,DAC,SIN,2025-02-27,IndiGo,9 hr 45 min,1 stop,38189
+2025-01-30,DAC,SIN,2025-02-27,THAI,6 hr 40 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-02-27,Biman,4 hr 15 min,Nonstop,61817
+2025-01-30,DAC,SIN,2025-02-28,IndiGo,17 hr 55 min,1 stop,36667
+2025-01-30,DAC,SIN,2025-02-28,IndiGo,9 hr 45 min,1 stop,39502
+2025-01-30,DAC,SIN,2025-02-28,IndiGo,13 hr 5 min,1 stop,41031
+2025-01-30,DAC,SIN,2025-02-28,THAI,6 hr 40 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-02-28,Biman,4 hr 15 min,Nonstop,61817
+2025-01-30,DAC,SIN,2025-03-01,IndiGo,17 hr 55 min,1 stop,37494
+2025-01-30,DAC,SIN,2025-03-01,IndiGo,13 hr 5 min,1 stop,37737
+2025-01-30,DAC,SIN,2025-03-01,IndiGo,9 hr 45 min,1 stop,39502
+2025-01-30,DAC,SIN,2025-03-01,THAI,6 hr 40 min,1 stop,56231
+2025-01-30,DAC,SIN,2025-03-01,Biman,4 hr 15 min,Nonstop,59417
+2025-01-30,DAC,SIN,2025-03-02,IndiGo,17 hr 55 min,1 stop,36667
+2025-01-30,DAC,SIN,2025-03-02,IndiGo,13 hr 5 min,1 stop,37737
+2025-01-30,DAC,SIN,2025-03-02,IndiGo,9 hr 45 min,1 stop,41185
+2025-01-30,DAC,SIN,2025-03-03,IndiGo,17 hr 55 min,1 stop,36667
+2025-01-30,DAC,SIN,2025-03-03,IndiGo,13 hr 5 min,1 stop,37331
+2025-01-30,DAC,SIN,2025-03-03,IndiGo,9 hr 45 min,1 stop,39502
+2025-01-30,DAC,SIN,2025-03-03,THAI,6 hr 40 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-03-03,Biman,4 hr 15 min,Nonstop,59417
+2025-01-30,DAC,SIN,2025-03-04,IndiGo,9 hr 45 min,1 stop,36667
+2025-01-30,DAC,SIN,2025-03-04,IndiGo,13 hr 5 min,1 stop,37261
+2025-01-30,DAC,SIN,2025-03-04,THAI,6 hr 40 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-03-04,Biman,4 hr 15 min,Nonstop,59417
+2025-01-30,DAC,SIN,2025-03-05,IndiGo,17 hr 55 min,1 stop,36667
+2025-01-30,DAC,SIN,2025-03-05,IndiGo,13 hr 5 min,1 stop,37261
+2025-01-30,DAC,SIN,2025-03-05,IndiGo,9 hr 45 min,1 stop,37494
+2025-01-30,DAC,SIN,2025-03-05,Biman,4 hr 15 min,Nonstop,57617
+2025-01-30,DAC,SIN,2025-03-06,IndiGo,9 hr 45 min,1 stop,36667
+2025-01-30,DAC,SIN,2025-03-06,IndiGo,13 hr 5 min,1 stop,37261
+2025-01-30,DAC,SIN,2025-03-06,THAI,6 hr 40 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-03-06,Biman,4 hr 15 min,Nonstop,57617
+2025-01-30,DAC,SIN,2025-03-07,IndiGo,9 hr 45 min,1 stop,36667
+2025-01-30,DAC,SIN,2025-03-07,IndiGo,13 hr 5 min,1 stop,37737
+2025-01-30,DAC,SIN,2025-03-07,THAI,7 hr 15 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-03-07,Biman,4 hr 15 min,Nonstop,57617
+2025-01-30,DAC,SIN,2025-03-08,IndiGo,9 hr 45 min,1 stop,36667
+2025-01-30,DAC,SIN,2025-03-08,IndiGo,13 hr 5 min,1 stop,37261
+2025-01-30,DAC,SIN,2025-03-08,THAI,6 hr 40 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-03-08,Biman,4 hr 15 min,Nonstop,57617
+2025-01-30,DAC,SIN,2025-03-09,IndiGo,17 hr 55 min,1 stop,36667
+2025-01-30,DAC,SIN,2025-03-09,IndiGo,13 hr 5 min,1 stop,37261
+2025-01-30,DAC,SIN,2025-03-09,IndiGo,9 hr 45 min,1 stop,39502
+2025-01-30,DAC,SIN,2025-03-09,Biman,4 hr 15 min,Nonstop,57617
+2025-01-30,DAC,SIN,2025-03-10,IndiGo,9 hr 45 min,1 stop,36667
+2025-01-30,DAC,SIN,2025-03-10,IndiGo,13 hr 5 min,1 stop,37261
+2025-01-30,DAC,SIN,2025-03-10,Biman,4 hr 15 min,Nonstop,57617
+2025-01-30,DAC,SIN,2025-03-11,IndiGo,9 hr 45 min,1 stop,36667
+2025-01-30,DAC,SIN,2025-03-11,IndiGo,13 hr 5 min,1 stop,37261
+2025-01-30,DAC,SIN,2025-03-11,Singapore Airlines,4 hr 5 min,Nonstop,56563
+2025-01-30,DAC,SIN,2025-03-11,Biman,4 hr 15 min,Nonstop,57617
+2025-01-30,DAC,SIN,2025-03-12,IndiGo,9 hr 45 min,1 stop,36667
+2025-01-30,DAC,SIN,2025-03-12,IndiGo,13 hr 5 min,1 stop,37737
+2025-01-30,DAC,SIN,2025-03-12,Biman,4 hr 15 min,Nonstop,57617
+2025-01-30,DAC,SIN,2025-03-13,IndiGo,9 hr 45 min,1 stop,36667
+2025-01-30,DAC,SIN,2025-03-13,IndiGo,13 hr 5 min,1 stop,37737
+2025-01-30,DAC,SIN,2025-03-13,THAI,6 hr 40 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-03-13,Biman,4 hr 15 min,Nonstop,57617
+2025-01-30,DAC,SIN,2025-03-14,IndiGo,9 hr 45 min,1 stop,37494
+2025-01-30,DAC,SIN,2025-03-14,IndiGo,13 hr 5 min,1 stop,37737
+2025-01-30,DAC,SIN,2025-03-14,Biman,4 hr 15 min,Nonstop,57617
+2025-01-30,DAC,SIN,2025-03-15,IndiGo,13 hr 5 min,1 stop,37737
+2025-01-30,DAC,SIN,2025-03-15,IndiGo,9 hr 45 min,1 stop,38439
+2025-01-30,DAC,SIN,2025-03-15,Biman,4 hr 15 min,Nonstop,57617
+2025-01-30,DAC,SIN,2025-03-16,IndiGo,17 hr 55 min,1 stop,36667
+2025-01-30,DAC,SIN,2025-03-16,IndiGo,13 hr 5 min,1 stop,37737
+2025-01-30,DAC,SIN,2025-03-16,IndiGo,9 hr 45 min,1 stop,39502
+2025-01-30,DAC,SIN,2025-03-16,Biman,4 hr 15 min,Nonstop,59417
+2025-01-30,DAC,SIN,2025-03-17,IndiGo,9 hr 45 min,1 stop,36667
+2025-01-30,DAC,SIN,2025-03-17,IndiGo,13 hr 5 min,1 stop,37737
+2025-01-30,DAC,SIN,2025-03-17,Biman,4 hr 15 min,Nonstop,57617
+2025-01-30,DAC,SIN,2025-03-18,IndiGo,17 hr 55 min,1 stop,36667
+2025-01-30,DAC,SIN,2025-03-18,IndiGo,9 hr 45 min,1 stop,37494
+2025-01-30,DAC,SIN,2025-03-18,IndiGo,13 hr 5 min,1 stop,37737
+2025-01-30,DAC,SIN,2025-03-18,THAI,6 hr 40 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-03-18,Biman,4 hr 15 min,Nonstop,59417
+2025-01-30,DAC,SIN,2025-03-19,IndiGo,17 hr 55 min,1 stop,36667
+2025-01-30,DAC,SIN,2025-03-19,IndiGo,9 hr 45 min,1 stop,37494
+2025-01-30,DAC,SIN,2025-03-19,IndiGo,13 hr 5 min,1 stop,37737
+2025-01-30,DAC,SIN,2025-03-19,THAI,7 hr 15 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-03-19,Biman,4 hr 15 min,Nonstop,59417
+2025-01-30,DAC,SIN,2025-03-20,IndiGo,9 hr 45 min,1 stop,36667
+2025-01-30,DAC,SIN,2025-03-20,IndiGo,13 hr 5 min,1 stop,37737
+2025-01-30,DAC,SIN,2025-03-20,THAI,7 hr 15 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-03-20,Biman,4 hr 15 min,Nonstop,57617
+2025-01-30,DAC,SIN,2025-03-21,IndiGo,17 hr 55 min,1 stop,37494
+2025-01-30,DAC,SIN,2025-03-21,IndiGo,13 hr 5 min,1 stop,37737
+2025-01-30,DAC,SIN,2025-03-21,IndiGo,9 hr 45 min,1 stop,38439
+2025-01-30,DAC,SIN,2025-03-21,Biman,4 hr 15 min,Nonstop,59417
+2025-01-30,DAC,SIN,2025-03-22,IndiGo,13 hr 5 min,1 stop,37737
+2025-01-30,DAC,SIN,2025-03-22,IndiGo,9 hr 45 min,1 stop,40542
+2025-01-30,DAC,SIN,2025-03-22,Biman,4 hr 15 min,Nonstop,59417
+2025-01-30,DAC,SIN,2025-03-23,IndiGo,17 hr 55 min,1 stop,36667
+2025-01-30,DAC,SIN,2025-03-23,IndiGo,13 hr 5 min,1 stop,37737
+2025-01-30,DAC,SIN,2025-03-23,IndiGo,9 hr 45 min,1 stop,39502
+2025-01-30,DAC,SIN,2025-03-23,Biman,4 hr 15 min,Nonstop,59417
+2025-01-30,DAC,SIN,2025-03-24,IndiGo,13 hr 5 min,1 stop,37737
+2025-01-30,DAC,SIN,2025-03-24,IndiGo,9 hr 45 min,1 stop,41185
+2025-01-30,DAC,SIN,2025-03-24,Biman,4 hr 15 min,Nonstop,57617
+2025-01-30,DAC,SIN,2025-03-25,IndiGo,9 hr 45 min,1 stop,36667
+2025-01-30,DAC,SIN,2025-03-25,IndiGo,13 hr 5 min,1 stop,37737
+2025-01-30,DAC,SIN,2025-03-25,THAI,6 hr 40 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-03-26,IndiGo,9 hr 45 min,1 stop,37362
+2025-01-30,DAC,SIN,2025-03-26,IndiGo,13 hr 5 min,1 stop,37737
+2025-01-30,DAC,SIN,2025-03-26,THAI,6 hr 40 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-03-26,Biman,4 hr 15 min,Nonstop,59417
+2025-01-30,DAC,SIN,2025-03-27,IndiGo,9 hr 45 min,1 stop,36667
+2025-01-30,DAC,SIN,2025-03-27,IndiGo,13 hr 5 min,1 stop,37737
+2025-01-30,DAC,SIN,2025-03-27,THAI,6 hr 40 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-03-27,Biman,4 hr 15 min,Nonstop,57617
+2025-01-30,DAC,SIN,2025-03-27,Singapore Airlines,4 hr 5 min,Nonstop,64242
+2025-01-30,DAC,SIN,2025-03-28,IndiGo,9 hr 45 min,1 stop,38897
+2025-01-30,DAC,SIN,2025-03-28,IndiGo,13 hr 5 min,1 stop,39967
+2025-01-30,DAC,SIN,2025-03-28,THAI,6 hr 40 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-03-28,Biman,4 hr 15 min,Nonstop,59417
+2025-01-30,DAC,SIN,2025-03-29,IndiGo,9 hr 45 min,1 stop,38897
+2025-01-30,DAC,SIN,2025-03-29,THAI,6 hr 40 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-03-29,Biman,4 hr 15 min,Nonstop,57617
+2025-01-30,DAC,SIN,2025-03-30,THAI,6 hr 30 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-03-30,Biman,4 hr 15 min,Nonstop,57617
+2025-01-30,DAC,SIN,2025-03-31,China Southern,11 hr 15 min,1 stop,53942
+2025-01-30,DAC,SIN,2025-03-31,Biman,4 hr 15 min,Nonstop,57617
+2025-01-30,DAC,SIN,2025-03-31,Malaysia Airlines,6 hr 10 min,1 stop,60514
+2025-01-30,DAC,SIN,2025-03-31,THAI,6 hr 30 min,1 stop,61933
+2025-01-30,DAC,SIN,2025-04-01,China Southern,11 hr 15 min,1 stop,53942
+2025-01-30,DAC,SIN,2025-04-01,Malaysia Airlines,6 hr 10 min,1 stop,60514
+2025-01-30,DAC,SIN,2025-04-01,Biman,4 hr 15 min,Nonstop,61817
+2025-01-30,DAC,SIN,2025-04-01,THAI,6 hr 30 min,1 stop,61933
+2025-01-30,DAC,SIN,2025-04-02,Biman,4 hr 15 min,Nonstop,59417
+2025-01-30,DAC,SIN,2025-04-02,Singapore Airlines,4 hr,Nonstop,64242
+2025-01-30,DAC,SIN,2025-04-03,Biman,4 hr 15 min,Nonstop,59417
+2025-01-30,DAC,SIN,2025-04-03,Malaysia Airlines,6 hr 10 min,1 stop,60514
+2025-01-30,DAC,SIN,2025-04-03,THAI,6 hr 30 min,1 stop,61933
+2025-01-30,DAC,SIN,2025-04-04,China Southern,11 hr 15 min,1 stop,53942
+2025-01-30,DAC,SIN,2025-04-04,Biman,4 hr 15 min,Nonstop,59442
+2025-01-30,DAC,SIN,2025-04-04,THAI,6 hr 30 min,1 stop,61960
+2025-01-30,DAC,SIN,2025-04-04,Malaysia Airlines,6 hr 10 min,1 stop,62346
+2025-01-30,DAC,SIN,2025-04-05,China Southern,11 hr 15 min,1 stop,53942
+2025-01-30,DAC,SIN,2025-04-05,Biman,4 hr 15 min,Nonstop,59442
+2025-01-30,DAC,SIN,2025-04-05,THAI,6 hr 30 min,1 stop,61960
+2025-01-30,DAC,SIN,2025-04-05,Malaysia Airlines,6 hr 10 min,1 stop,62346
+2025-01-30,DAC,SIN,2025-04-06,China Southern,11 hr 15 min,1 stop,53942
+2025-01-30,DAC,SIN,2025-04-06,Biman,4 hr 15 min,Nonstop,59417
+2025-01-30,DAC,SIN,2025-04-06,THAI,6 hr 30 min,1 stop,61933
+2025-01-30,DAC,SIN,2025-04-06,Malaysia Airlines,6 hr 10 min,1 stop,62313
+2025-01-30,DAC,SIN,2025-04-07,THAI,9 hr 45 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-04-07,Biman,4 hr 15 min,Nonstop,59417
+2025-01-30,DAC,SIN,2025-04-08,THAI,6 hr 30 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-04-08,THAI,6 hr 55 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-04-08,Biman,4 hr 15 min,Nonstop,59417
+2025-01-30,DAC,SIN,2025-04-08,Malaysia Airlines,6 hr 10 min,1 stop,62313
+2025-01-30,DAC,SIN,2025-04-09,THAI,6 hr 30 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-04-09,Singapore Airlines,4 hr,Nonstop,56563
+2025-01-30,DAC,SIN,2025-04-09,Biman,4 hr 15 min,Nonstop,59417
+2025-01-30,DAC,SIN,2025-04-10,THAI,6 hr 30 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-04-10,Biman,4 hr 15 min,Nonstop,59417
+2025-01-30,DAC,SIN,2025-04-10,Singapore Airlines,4 hr,Nonstop,61722
+2025-01-30,DAC,SIN,2025-04-11,THAI,9 hr 45 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-04-11,Singapore Airlines,4 hr,Nonstop,56563
+2025-01-30,DAC,SIN,2025-04-11,Biman,4 hr 15 min,Nonstop,57617
+2025-01-30,DAC,SIN,2025-04-12,Biman,4 hr 15 min,Nonstop,59417
+2025-01-30,DAC,SIN,2025-04-12,Singapore Airlines,4 hr,Nonstop,61722
+2025-01-30,DAC,SIN,2025-04-13,Singapore Airlines,4 hr,Nonstop,56563
+2025-01-30,DAC,SIN,2025-04-13,Biman,4 hr 15 min,Nonstop,59417
+2025-01-30,DAC,SIN,2025-04-14,Singapore Airlines,4 hr,Nonstop,56563
+2025-01-30,DAC,SIN,2025-04-14,Biman,4 hr 15 min,Nonstop,59417
+2025-01-30,DAC,SIN,2025-04-15,THAI,6 hr 55 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-04-15,Singapore Airlines,4 hr,Nonstop,56563
+2025-01-30,DAC,SIN,2025-04-15,Biman,4 hr 15 min,Nonstop,59417
+2025-01-30,DAC,SIN,2025-04-16,Singapore Airlines,4 hr,Nonstop,56563
+2025-01-30,DAC,SIN,2025-04-16,Biman,4 hr 15 min,Nonstop,57617
+2025-01-30,DAC,SIN,2025-04-17,THAI,6 hr 30 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-04-17,Singapore Airlines,4 hr,Nonstop,56563
+2025-01-30,DAC,SIN,2025-04-17,Biman,4 hr 15 min,Nonstop,57617
+2025-01-30,DAC,SIN,2025-04-18,THAI,6 hr 30 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-04-18,Singapore Airlines,4 hr,Nonstop,56563
+2025-01-30,DAC,SIN,2025-04-18,Biman,4 hr 15 min,Nonstop,57617
+2025-01-30,DAC,SIN,2025-04-19,Biman,4 hr 15 min,Nonstop,57617
+2025-01-30,DAC,SIN,2025-04-19,Singapore Airlines,4 hr,Nonstop,61722
+2025-01-30,DAC,SIN,2025-04-20,Biman,4 hr 15 min,Nonstop,57617
+2025-01-30,DAC,SIN,2025-04-20,Malaysia Airlines,9 hr 55 min,1 stop,60514
+2025-01-30,DAC,SIN,2025-04-20,Singapore Airlines,4 hr,Nonstop,61722
+2025-01-30,DAC,SIN,2025-04-20,THAI,6 hr 30 min,1 stop,61933
+2025-01-30,DAC,SIN,2025-04-21,Singapore Airlines,4 hr,Nonstop,56563
+2025-01-30,DAC,SIN,2025-04-21,Biman,4 hr 15 min,Nonstop,57617
+2025-01-30,DAC,SIN,2025-04-22,THAI,6 hr 30 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-04-22,Singapore Airlines,4 hr,Nonstop,56563
+2025-01-30,DAC,SIN,2025-04-22,Biman,4 hr 15 min,Nonstop,59417
+2025-01-30,DAC,SIN,2025-04-23,Singapore Airlines,4 hr,Nonstop,56563
+2025-01-30,DAC,SIN,2025-04-23,Biman,4 hr 15 min,Nonstop,57617
+2025-01-30,DAC,SIN,2025-04-24,THAI,6 hr 30 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-04-24,Singapore Airlines,4 hr,Nonstop,56563
+2025-01-30,DAC,SIN,2025-04-24,Biman,4 hr 15 min,Nonstop,59417
+2025-01-30,DAC,SIN,2025-04-25,THAI,9 hr 45 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-04-25,Biman,4 hr 15 min,Nonstop,57617
+2025-01-30,DAC,SIN,2025-04-26,THAI,6 hr 30 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-04-26,Biman,4 hr 15 min,Nonstop,57617
+2025-01-30,DAC,SIN,2025-04-27,THAI,6 hr 30 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-04-27,Biman,4 hr 15 min,Nonstop,57617
+2025-01-30,DAC,SIN,2025-04-27,Singapore Airlines,4 hr,Nonstop,61722
+2025-01-30,DAC,SIN,2025-04-28,Singapore Airlines,4 hr,Nonstop,56563
+2025-01-30,DAC,SIN,2025-04-28,Biman,4 hr 15 min,Nonstop,57617
+2025-01-30,DAC,SIN,2025-04-29,THAI,6 hr 30 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-04-29,Biman,4 hr 15 min,Nonstop,57617
+2025-01-30,DAC,SIN,2025-04-29,Singapore Airlines,4 hr,Nonstop,61722
+2025-01-30,DAC,SIN,2025-04-30,THAI,6 hr 30 min,1 stop,55574
+2025-01-30,DAC,SIN,2025-04-30,Biman,4 hr 15 min,Nonstop,59417
